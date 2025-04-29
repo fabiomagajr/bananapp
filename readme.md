@@ -42,8 +42,12 @@ git clone https://github.com/fabiomagajr/bananapp.git
 Instale as dependências necessárias:
 ```bash
 cd bananapp
-# Dependendo da linguagem/gerenciador de pacotes utilizado:
-pip install -r pyside6 
+pip install pyside6 
+pip install psycopg2
+pip install openpyxl
+pip install mysql.connector
+pip install pandas
+pip install sqlalchemy
 ```
 
 Execute o Aplicativo:
