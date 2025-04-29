@@ -1,0 +1,899 @@
+ID_Cliente,Nome,Idade,Gênero,Email,País,Data_Compra,Produto,Categoria,Quantidade,Preço_Unitário,Forma_Pagamento,Avaliação,Cliente_Frequente
+1,João Gabriel Castro,58,Masculino,enrico74@gmail.com,Brasil,2025-02-25,Feijão,Alimentos,2,287.68,Cartão de Crédito,5,Sim
+2,Henrique Nascimento,55,Feminino,brenoaragao@ig.com.br,Brasil,2024-10-05,Smartphone,Eletrônicos,2,473.0,Cartão de Crédito,5,Sim
+3,Isabel Monteiro,63,Outro,fariasbeatriz@dias.com,Moçambique,2024-06-14,Suspense,Livros,4,1182.64,Cartão de Crédito,2,Não
+4,Yuri das Neves,39,Feminino,camposjoaquim@nunes.org,Argentina,2024-11-23,Jaqueta,Roupas,1,194.56,Cartão de Crédito,3,Não
+5,Rebeca Melo,56,Feminino,emanuellada-costa@ig.com.br,Brasil,2023-04-12,Romance,Livros,4,166.81,PIX,5,Não
+6,Heloísa Pereira,54,Masculino,agatha84@gomes.org,Brasil,2024-01-10,Notebook,Eletrônicos,3,1970.59,Boleto,1,Não
+7,Ana Luiza Costa,35,Feminino,marcos-vinicius50@yahoo.com.br,Portugal,2024-06-19,Jaqueta,Roupas,3,426.92,PIX,1,Sim
+8,Ana Sophia Monteiro,52,Outro,fnogueira@da.br,Argentina,2024-09-20,Vestido,Roupas,4,547.2,Boleto,3,Sim
+9,Pedro Monteiro,32,Masculino,pmonteiro@ig.com.br,Portugal,2024-09-21,Autoajuda,Livros,1,429.86,PIX,2,Não
+10,Emilly Moura,43,Outro,eloaholiveira@moura.br,Angola,2023-08-10,Jaqueta,Roupas,2,500.79,PIX,5,Não
+11,Laís Silva,55,Feminino,theomartins@uol.com.br,Portugal,2024-01-26,Calça Jeans,Roupas,5,992.1,Cartão de Crédito,1,Sim
+12,Joana Castro,58,Masculino,galves@viana.br,Angola,2024-11-23,Liquidificador,Casa,4,769.42,Débito,5,Não
+13,Valentina Melo,53,Masculino,joao-pedro84@santos.br,Brasil,2025-02-05,Geladeira,Casa,3,231.99,Débito,2,Não
+14,Pedro Henrique da Mata,18,Outro,otavio14@costela.br,Portugal,2024-05-16,Sofá,Casa,5,1826.13,PIX,5,Sim
+15,Alana Lima,27,Feminino,pietrosantos@hotmail.com,Argentina,2024-12-13,Liquidificador,Casa,5,655.07,Cartão de Crédito,1,Não
+16,Yago Carvalho,69,Feminino,pedro-henriqueda-mata@souza.com,Argentina,2023-10-09,Notebook,Eletrônicos,5,1894.43,Cartão de Crédito,4,Sim
+17,Ana Beatriz Duarte,66,Outro,joao-gabriel13@uol.com.br,Argentina,2024-05-26,Vestido,Roupas,5,338.6,Débito,2,Sim
+18,Luiz Miguel Teixeira,63,Feminino,cazevedo@ferreira.com,Angola,2024-03-13,Chocolate,Alimentos,5,908.46,Boleto,2,Sim
+19,Benício Rocha,39,Masculino,pedro-miguelaragao@ig.com.br,Moçambique,2024-11-08,Sofá,Casa,5,448.23,Cartão de Crédito,1,Sim
+20,Dra. Catarina Vieira,22,Masculino,silvaemanuelly@bol.com.br,Portugal,2024-06-29,Notebook,Eletrônicos,3,1341.27,Boleto,5,Sim
+21,Dra. Sabrina Monteiro,64,Outro,cauecardoso@gmail.com,Moçambique,2024-07-19,Suspense,Livros,4,1616.92,Boleto,1,Sim
+22,Gabriela Fogaça,60,Feminino,oda-costa@ig.com.br,Portugal,2024-05-08,Fantasia,Livros,4,1729.04,Cartão de Crédito,1,Sim
+23,Luiz Gustavo Azevedo,43,Outro,barrosleandro@moraes.net,Portugal,2024-04-20,Notebook,Eletrônicos,2,388.52,Débito,2,Não
+24,Juan da Costa,29,Feminino,imonteiro@barbosa.com,Angola,2024-08-16,Camiseta,Roupas,4,1617.96,Cartão de Crédito,1,Sim
+25,Sofia Gonçalves,23,Masculino,vitor41@bol.com.br,Argentina,2024-04-11,Fantasia,Livros,4,435.36,Débito,1,Sim
+26,Isaac Lopes,42,Masculino,martinsana-livia@pires.org,Angola,2025-02-26,Chocolate,Alimentos,3,851.78,Débito,2,Sim
+27,Daniela Rezende,36,Masculino,da-luzluiz-henrique@ribeiro.com,Brasil,2023-11-01,Liquidificador,Casa,3,123.76,Débito,5,Sim
+28,Ana Oliveira,21,Outro,yagogomes@uol.com.br,Brasil,2023-06-12,Camiseta,Roupas,5,145.24,Boleto,4,Sim
+29,Lucca Cavalcanti,54,Masculino,moraesdanilo@castro.com,Moçambique,2024-07-12,Liquidificador,Casa,5,173.15,PIX,3,Sim
+30,Olivia Araújo,60,Outro,rodriguesjoao-lucas@bol.com.br,Portugal,2024-10-14,Jaqueta,Roupas,4,270.45,PIX,4,Não
+31,Maria Vitória da Conceição,66,Masculino,fernanda49@hotmail.com,Brasil,2023-06-19,Romance,Livros,1,1079.89,PIX,2,Não
+32,Srta. Lara Castro,22,Masculino,lunabarros@almeida.br,Portugal,2024-08-12,Feijão,Alimentos,4,1669.15,PIX,5,Sim
+33,Matheus Pinto,60,Outro,lucas-gabrielcardoso@da.com,Portugal,2024-06-26,Notebook,Eletrônicos,3,239.7,Cartão de Crédito,5,Sim
+34,Augusto Farias,35,Feminino,luiz-henrique78@monteiro.com,Moçambique,2023-11-29,Jaqueta,Roupas,2,1378.12,PIX,5,Não
+35,Elisa Rodrigues,34,Masculino,lcampos@ramos.com,Brasil,2024-07-10,Autoajuda,Livros,1,17.06,Boleto,3,Sim
+36,Raul da Conceição,65,Feminino,gmendes@uol.com.br,Moçambique,2025-03-21,Romance,Livros,1,159.74,Boleto,5,Sim
+37,Sra. Maria Julia Gonçalves,41,Outro,catarinajesus@yahoo.com.br,Moçambique,2023-11-30,Vestido,Roupas,2,93.24,PIX,1,Não
+38,Larissa Barbosa,31,Outro,maria-luiza33@almeida.net,Argentina,2024-07-16,Tablet,Eletrônicos,5,1769.43,Débito,5,Sim
+39,Emilly Correia,33,Masculino,fgomes@moura.br,Argentina,2024-06-07,Romance,Livros,2,1475.76,PIX,4,Sim
+40,Isis Nogueira,35,Masculino,julialima@ig.com.br,Brasil,2024-05-02,Romance,Livros,4,452.64,Débito,3,Não
+41,Pedro Melo,70,Masculino,fogacaluana@santos.com,Argentina,2023-07-07,Notebook,Eletrônicos,4,663.24,Cartão de Crédito,3,Não
+42,Olivia da Paz,59,Outro,ramosmaria-sophia@da.org,Angola,2024-11-02,Geladeira,Casa,1,239.53,PIX,2,Não
+43,Marcos Vinicius Lima,20,Masculino,melodavi-lucca@uol.com.br,Moçambique,2023-07-28,Autoajuda,Livros,3,878.42,Cartão de Crédito,4,Sim
+44,Cecília Cunha,34,Masculino,kamilly05@yahoo.com.br,Angola,2023-05-16,Notebook,Eletrônicos,3,868.28,PIX,5,Não
+45,Diogo Ribeiro,60,Masculino,vicenteduarte@gmail.com,Portugal,2025-02-27,Geladeira,Casa,4,659.1,PIX,5,Sim
+46,Vitória Novaes,30,Feminino,brunorodrigues@da.com,Angola,2025-01-17,Jaqueta,Roupas,4,1100.4,Cartão de Crédito,3,Não
+47,Enzo Gabriel Alves,31,Feminino,blopes@silveira.com,Moçambique,2023-06-20,Geladeira,Casa,4,889.15,Boleto,5,Não
+48,Dr. Gustavo Pires,68,Outro,jgomes@uol.com.br,Argentina,2025-02-27,Tablet,Eletrônicos,5,1331.07,PIX,1,Sim
+49,Danilo Pereira,61,Feminino,sabrina63@das.br,Argentina,2025-03-02,Calça Jeans,Roupas,1,101.97,Débito,5,Sim
+50,Srta. Lívia Almeida,47,Feminino,danielapereira@araujo.br,Moçambique,2024-09-26,Vestido,Roupas,4,805.31,Boleto,1,Sim
+51,Raul da Cruz,67,Feminino,alvesmaria-fernanda@freitas.com,Argentina,2024-06-26,Vestido,Roupas,1,1119.24,Cartão de Crédito,4,Sim
+52,Noah Vieira,69,Feminino,camposjoao-vitor@costela.com,Moçambique,2024-02-21,Geladeira,Casa,4,1229.18,Débito,5,Não
+53,João Vitor Costa,28,Outro,luna44@gmail.com,Angola,2023-06-28,Autoajuda,Livros,2,1681.33,PIX,5,Não
+54,Paulo Ferreira,58,Masculino,urezende@yahoo.com.br,Portugal,2024-06-23,Romance,Livros,3,476.64,PIX,3,Sim
+55,Yuri Ramos,26,Masculino,davidas-neves@mendes.br,Argentina,2024-06-04,Suspense,Livros,2,137.82,Débito,3,Não
+56,Lucas Gabriel Dias,44,Masculino,ana-beatriz56@gmail.com,Argentina,2023-08-28,Fantasia,Livros,5,1892.66,Cartão de Crédito,5,Não
+57,Renan Fogaça,48,Masculino,monteirofelipe@lima.br,Portugal,2023-07-04,Chocolate,Alimentos,4,1081.06,Boleto,4,Sim
+58,Sra. Marcela Pinto,35,Feminino,ucosta@cardoso.net,Angola,2025-01-25,Fone de Ouvido,Eletrônicos,3,1341.06,Débito,2,Não
+59,Isabella Aragão,26,Outro,dda-conceicao@bol.com.br,Moçambique,2025-01-14,Fone de Ouvido,Eletrônicos,5,1133.14,Cartão de Crédito,1,Não
+60,Maria Cecília Cardoso,26,Feminino,diasmaria@yahoo.com.br,Argentina,2024-05-03,Tablet,Eletrônicos,4,661.43,Débito,3,Não
+61,Ana Carolina Souza,66,Feminino,uda-mota@hotmail.com,Portugal,2024-06-26,Autoajuda,Livros,1,945.91,Cartão de Crédito,3,Sim
+62,Pedro Lucas Cunha,59,Masculino,maria-julia60@da.net,Brasil,2024-08-19,Notebook,Eletrônicos,2,1680.07,Boleto,2,Sim
+63,Nicole Campos,48,Outro,evelyn46@fernandes.com,Brasil,2023-09-30,Sofá,Casa,4,1401.94,PIX,2,Sim
+64,Sarah Fernandes,67,Masculino,luiz-gustavocunha@yahoo.com.br,Portugal,2023-04-11,Smartphone,Eletrônicos,3,1155.84,Débito,4,Sim
+65,Francisco Teixeira,22,Outro,knogueira@gmail.com,Argentina,2024-01-13,Tablet,Eletrônicos,5,1613.0,Cartão de Crédito,3,Não
+66,Bryan da Conceição,60,Feminino,ianduarte@azevedo.net,Brasil,2024-02-17,Geladeira,Casa,1,1700.66,Débito,1,Não
+67,Dra. Melissa da Mata,41,Outro,otavio34@gmail.com,Angola,2023-10-08,Vestido,Roupas,2,1470.25,PIX,5,Não
+68,Marcelo Barbosa,47,Feminino,otaviomelo@yahoo.com.br,Moçambique,2024-09-10,Macarrão,Alimentos,2,1663.15,Cartão de Crédito,3,Não
+69,Manuela Barros,33,Feminino,maria-clara81@costa.br,Moçambique,2024-04-21,Fogão,Casa,3,67.11,PIX,2,Não
+70,Davi Luiz da Rosa,31,Feminino,ada-rocha@uol.com.br,Portugal,2024-08-12,Macarrão,Alimentos,5,1405.36,PIX,5,Sim
+71,Maitê Rodrigues,51,Masculino,vitor-gabriel83@uol.com.br,Brasil,2024-06-11,Vestido,Roupas,4,1114.8,Boleto,4,Não
+72,Dr. Paulo Freitas,46,Masculino,fcostela@caldeira.br,Brasil,2023-11-19,Feijão,Alimentos,4,1386.66,PIX,5,Não
+73,Dr. Vinicius Ribeiro,48,Outro,icaldeira@campos.com,Moçambique,2024-09-25,Chocolate,Alimentos,5,668.27,Débito,3,Não
+74,Luiza Vieira,34,Masculino,kda-mota@da.br,Brasil,2025-01-08,Jaqueta,Roupas,1,1488.33,Boleto,2,Sim
+75,Nicole Dias,65,Feminino,kevinrezende@da.br,Portugal,2024-07-25,Geladeira,Casa,1,1666.93,PIX,2,Não
+76,Camila Ferreira,29,Feminino,aaragao@hotmail.com,Brasil,2023-12-05,Sofá,Casa,3,100.58,Cartão de Crédito,5,Não
+77,Alana Souza,62,Masculino,camilacavalcanti@da.br,Angola,2024-09-28,Smartphone,Eletrônicos,5,575.84,Débito,4,Não
+78,Raul Campos,29,Masculino,wfogaca@dias.br,Portugal,2023-11-08,Romance,Livros,1,807.41,Cartão de Crédito,5,Sim
+79,Maria Alves,27,Masculino,luiz-otaviopinto@yahoo.com.br,Moçambique,2024-09-13,Arroz,Alimentos,2,245.72,Débito,5,Sim
+80,Daniel Castro,67,Outro,goncalvesjoana@bol.com.br,Angola,2025-01-07,Fantasia,Livros,3,1721.73,Débito,3,Sim
+81,Antônio da Rosa,57,Outro,elisa84@ig.com.br,Brasil,2023-04-21,Calça Jeans,Roupas,3,1324.25,Boleto,2,Sim
+82,Davi Lucca Caldeira,53,Masculino,freitasfernanda@uol.com.br,Argentina,2024-12-07,Fone de Ouvido,Eletrônicos,4,1381.85,Débito,3,Sim
+83,Caroline Silveira,32,Feminino,araujojoao-miguel@duarte.br,Portugal,2023-10-12,Romance,Livros,2,1848.58,Boleto,4,Sim
+84,Gabrielly Cardoso,52,Masculino,srodrigues@bol.com.br,Argentina,2023-12-23,Feijão,Alimentos,1,128.68,PIX,5,Não
+85,Alexia Castro,46,Masculino,oliveiraluna@oliveira.com,Angola,2023-05-06,Chocolate,Alimentos,3,1005.94,Débito,4,Sim
+86,Luiz Henrique da Rocha,56,Masculino,ysantos@ig.com.br,Angola,2023-07-02,Macarrão,Alimentos,1,191.74,Cartão de Crédito,3,Sim
+87,Dra. Yasmin Mendes,66,Masculino,alveslavinia@pires.com,Angola,2023-09-27,Fogão,Casa,3,371.16,Débito,4,Sim
+88,Alice Farias,48,Feminino,mgomes@silveira.br,Angola,2024-07-31,Macarrão,Alimentos,1,1716.89,PIX,4,Não
+89,Kamilly Novaes,36,Outro,tfarias@uol.com.br,Angola,2024-03-20,Liquidificador,Casa,4,185.24,PIX,3,Sim
+90,Gabrielly Gonçalves,67,Feminino,valentinaporto@moreira.net,Moçambique,2024-05-21,Fone de Ouvido,Eletrônicos,4,117.87,PIX,5,Não
+91,Olivia Cardoso,58,Feminino,urodrigues@hotmail.com,Brasil,2023-12-04,Jaqueta,Roupas,5,270.72,PIX,4,Não
+92,Rafaela Azevedo,25,Masculino,bryanfarias@martins.net,Moçambique,2024-06-23,Calça Jeans,Roupas,3,1106.17,Débito,1,Sim
+93,Dra. Natália Nascimento,25,Feminino,alanamendes@gmail.com,Brasil,2024-09-06,Vestido,Roupas,3,1022.66,PIX,4,Não
+94,Milena Freitas,48,Masculino,vcardoso@bol.com.br,Angola,2024-01-23,Sofá,Casa,4,389.31,Boleto,1,Não
+95,Davi da Luz,67,Feminino,rsilva@ig.com.br,Portugal,2024-02-14,Geladeira,Casa,1,572.85,PIX,5,Não
+96,Dra. Alexia Fogaça,27,Feminino,joao-lucas82@ig.com.br,Moçambique,2024-11-17,Autoajuda,Livros,3,1108.32,Débito,4,Não
+97,Maria Cecília Jesus,30,Outro,luana78@bol.com.br,Argentina,2023-12-05,Fogão,Casa,2,1713.47,Débito,1,Não
+98,Dra. Alícia Lopes,65,Feminino,fernandesguilherme@alves.br,Angola,2023-05-19,Suspense,Livros,4,1930.0,Boleto,5,Não
+99,Bianca Pereira,24,Feminino,maria-fernanda94@dias.com,Brasil,2024-07-07,Fogão,Casa,1,1447.66,Débito,2,Sim
+100,Maria Eduarda Carvalho,48,Feminino,nascimentoamanda@gmail.com,Portugal,2024-02-08,Fogão,Casa,1,1705.01,Débito,3,Não
+101,Lucas da Rocha,52,Masculino,melojuliana@ramos.com,Moçambique,2024-12-03,Notebook,Eletrônicos,3,1994.88,Cartão de Crédito,4,Sim
+102,Valentina Peixoto,66,Outro,dfarias@cavalcanti.com,Brasil,2023-11-19,Suspense,Livros,3,1807.81,Cartão de Crédito,3,Sim
+103,Isabella Campos,36,Feminino,da-pazjoao-vitor@goncalves.br,Portugal,2023-06-13,Suspense,Livros,2,1067.02,Boleto,2,Sim
+104,Guilherme Silveira,23,Outro,freitasana-laura@cunha.com,Angola,2024-10-18,Sofá,Casa,4,1826.53,Boleto,2,Não
+105,Juan Rezende,58,Feminino,araujoluna@gmail.com,Angola,2024-07-06,Arroz,Alimentos,4,1803.41,Boleto,1,Não
+106,Pietro Dias,40,Outro,bruna87@ig.com.br,Portugal,2023-12-17,Autoajuda,Livros,4,1692.15,Boleto,4,Não
+107,Mariana Santos,24,Masculino,xcosta@gmail.com,Angola,2023-10-14,Geladeira,Casa,5,598.79,PIX,1,Não
+108,Heitor Dias,35,Masculino,msilveira@peixoto.br,Moçambique,2023-10-30,Fone de Ouvido,Eletrônicos,3,1553.72,Boleto,5,Não
+109,Sra. Bianca Rocha,32,Outro,aragaobrenda@bol.com.br,Argentina,2024-04-07,Geladeira,Casa,2,1260.21,Cartão de Crédito,3,Não
+110,Joaquim Novaes,20,Outro,vicente25@ig.com.br,Portugal,2024-03-04,Camiseta,Roupas,3,660.17,Débito,2,Sim
+111,Vinicius da Cunha,26,Outro,mmoreira@uol.com.br,Portugal,2025-02-13,Geladeira,Casa,2,521.37,Débito,3,Não
+112,Natália Cardoso,69,Masculino,emanuel73@ig.com.br,Angola,2023-05-03,Notebook,Eletrônicos,2,1721.68,Débito,5,Não
+113,Sr. Miguel da Mota,23,Feminino,woliveira@viana.com,Brasil,2024-12-07,Arroz,Alimentos,4,743.49,PIX,5,Não
+114,Camila Gomes,70,Outro,ocastro@gmail.com,Portugal,2024-01-05,Notebook,Eletrônicos,4,59.8,PIX,5,Sim
+115,Sr. Marcelo Rezende,59,Masculino,acarvalho@sales.org,Angola,2025-03-13,Chocolate,Alimentos,1,288.16,Cartão de Crédito,3,Não
+116,Srta. Amanda Moraes,25,Masculino,isadorada-luz@farias.com,Argentina,2023-11-15,Sofá,Casa,4,912.75,Débito,5,Sim
+117,Davi Lucas Azevedo,44,Outro,sarah98@bol.com.br,Brasil,2023-12-13,Fantasia,Livros,3,75.11,PIX,2,Não
+118,Luiz Felipe Vieira,46,Masculino,marcos-vinicius09@da.com,Portugal,2024-01-16,Tablet,Eletrônicos,5,1804.38,PIX,1,Não
+119,Rodrigo Novaes,35,Masculino,maysarocha@oliveira.br,Brasil,2023-12-10,Romance,Livros,2,1286.99,Cartão de Crédito,1,Não
+120,Pedro Nogueira,33,Masculino,nicolasfernandes@gmail.com,Moçambique,2025-01-05,Camiseta,Roupas,5,422.24,Boleto,2,Não
+121,Danilo Nogueira,67,Masculino,cferreira@campos.br,Moçambique,2023-08-10,Tablet,Eletrônicos,2,1975.18,PIX,2,Sim
+122,Srta. Isis Moreira,60,Masculino,costelalevi@bol.com.br,Argentina,2023-05-09,Tablet,Eletrônicos,2,1181.82,Cartão de Crédito,2,Não
+123,Bryan Moraes,21,Masculino,dmonteiro@bol.com.br,Angola,2025-04-01,Liquidificador,Casa,1,957.73,PIX,5,Sim
+124,Mariane da Costa,46,Outro,da-matadavi@da.net,Argentina,2024-04-16,Liquidificador,Casa,5,610.24,Cartão de Crédito,1,Não
+125,Sr. João Felipe Monteiro,43,Feminino,tgomes@da.br,Brasil,2023-08-09,Fantasia,Livros,1,1799.54,PIX,5,Sim
+126,Sr. Vitor Gabriel Carvalho,22,Masculino,lopesemanuella@teixeira.br,Portugal,2024-09-17,Geladeira,Casa,4,1989.31,PIX,4,Não
+127,Davi Lucas Moreira,24,Outro,pda-mata@yahoo.com.br,Brasil,2023-08-31,Sofá,Casa,4,908.59,Boleto,4,Não
+128,Dra. Ana Laura Freitas,70,Feminino,rafaela91@yahoo.com.br,Angola,2024-11-17,Romance,Livros,3,859.26,PIX,3,Sim
+129,Sr. Thomas Nascimento,61,Feminino,lunacostela@gmail.com,Brasil,2023-07-31,Smartphone,Eletrônicos,1,869.43,PIX,2,Sim
+130,Sra. Natália Moraes,55,Outro,bribeiro@nogueira.com,Moçambique,2023-11-29,Arroz,Alimentos,4,713.66,Débito,1,Não
+131,Ana Porto,56,Feminino,novaesmaria-alice@hotmail.com,Portugal,2023-08-16,Notebook,Eletrônicos,2,1316.91,Boleto,1,Não
+132,Srta. Bianca da Paz,53,Feminino,eduarda90@freitas.com,Brasil,2024-11-11,Feijão,Alimentos,4,1691.86,Cartão de Crédito,5,Não
+133,Carlos Eduardo da Rocha,19,Masculino,aliciamoraes@carvalho.org,Portugal,2024-08-10,Macarrão,Alimentos,3,22.15,Boleto,5,Não
+134,Ian Costa,22,Masculino,thiagooliveira@hotmail.com,Brasil,2024-07-25,Notebook,Eletrônicos,4,845.47,PIX,2,Não
+135,Maria Sophia Nascimento,37,Outro,franciscocavalcanti@bol.com.br,Portugal,2023-12-13,Liquidificador,Casa,1,319.6,Cartão de Crédito,1,Não
+136,Benjamin Barbosa,46,Outro,fariaslucas-gabriel@pinto.com,Angola,2024-02-26,Fantasia,Livros,4,553.6,Cartão de Crédito,3,Não
+137,Luiz Gustavo Lima,25,Feminino,emanuelly17@gmail.com,Moçambique,2024-03-26,Autoajuda,Livros,1,448.83,Cartão de Crédito,1,Sim
+138,Maria Sophia Melo,37,Masculino,uda-paz@carvalho.br,Argentina,2023-12-06,Macarrão,Alimentos,3,248.77,Débito,4,Sim
+139,Pietra Ribeiro,26,Feminino,evelyn43@duarte.net,Moçambique,2024-12-13,Jaqueta,Roupas,1,800.17,Cartão de Crédito,4,Sim
+140,Pedro Miguel Moreira,47,Masculino,alveslucas@da.net,Portugal,2023-04-10,Fogão,Casa,5,814.8,Débito,3,Sim
+141,Dra. Bruna Silva,43,Masculino,davi-luizcampos@yahoo.com.br,Portugal,2025-01-03,Vestido,Roupas,3,185.38,Cartão de Crédito,2,Não
+142,Juan Cardoso,55,Feminino,azevedosofia@gmail.com,Moçambique,2025-01-27,Fone de Ouvido,Eletrônicos,3,1494.15,Boleto,3,Sim
+143,Dra. Bárbara Rezende,22,Outro,ana-livia83@barros.com,Brasil,2023-10-29,Sofá,Casa,3,708.69,Boleto,2,Sim
+144,Laura Teixeira,27,Feminino,ribeiroaugusto@silveira.com,Argentina,2023-11-05,Calça Jeans,Roupas,1,362.52,Débito,4,Não
+145,Sr. Enzo Aragão,61,Outro,ogomes@nascimento.org,Moçambique,2024-02-29,Macarrão,Alimentos,2,885.13,Débito,4,Não
+146,Davi Luiz Araújo,68,Feminino,costelanatalia@uol.com.br,Moçambique,2023-09-03,Tablet,Eletrônicos,5,157.64,Débito,4,Sim
+147,Dra. Ana Luiza Cunha,21,Feminino,kamilly89@ferreira.com,Portugal,2024-07-27,Smartphone,Eletrônicos,5,1192.22,Débito,4,Sim
+148,Dr. Luiz Miguel Melo,46,Outro,speixoto@caldeira.com,Argentina,2023-10-31,Chocolate,Alimentos,5,310.21,Cartão de Crédito,4,Sim
+149,Luiz Fernando Barbosa,69,Feminino,moraesluigi@nogueira.com,Brasil,2024-09-19,Sofá,Casa,1,503.01,Débito,4,Sim
+150,Dr. Luigi Fogaça,41,Feminino,sarah09@pinto.com,Portugal,2024-05-01,Fantasia,Livros,3,1361.01,Cartão de Crédito,3,Sim
+151,Marina Campos,39,Masculino,davi-luccacunha@rezende.com,Moçambique,2024-04-24,Autoajuda,Livros,3,1450.23,Boleto,3,Sim
+152,Vitória Pinto,55,Outro,ana-luiza11@da.com,Argentina,2024-05-16,Macarrão,Alimentos,4,266.61,Cartão de Crédito,3,Não
+153,Lucca Cardoso,59,Feminino,catarina13@bol.com.br,Argentina,2024-07-20,Liquidificador,Casa,4,1021.89,Cartão de Crédito,3,Não
+154,Dra. Natália da Mata,29,Masculino,vitor69@da.com,Portugal,2024-01-03,Suspense,Livros,2,1999.95,Boleto,1,Não
+155,Maysa da Paz,68,Masculino,guilherme92@hotmail.com,Moçambique,2023-10-10,Liquidificador,Casa,3,1754.02,Boleto,5,Não
+156,João Miguel Gonçalves,27,Masculino,correiamiguel@cardoso.net,Argentina,2024-04-08,Sofá,Casa,4,96.95,PIX,2,Não
+157,Eduardo Araújo,57,Feminino,ana-julia28@vieira.com,Angola,2024-03-26,Calça Jeans,Roupas,3,1931.54,Débito,2,Não
+158,Lara Vieira,61,Outro,isadora61@farias.net,Angola,2024-01-25,Autoajuda,Livros,4,1010.78,Débito,2,Sim
+159,Bianca Pereira,69,Outro,silveirayuri@peixoto.com,Argentina,2023-10-21,Arroz,Alimentos,4,1749.49,Cartão de Crédito,5,Sim
+160,Evelyn da Cunha,36,Masculino,steixeira@bol.com.br,Argentina,2023-06-18,Chocolate,Alimentos,5,303.22,Débito,1,Sim
+161,Thomas Freitas,70,Feminino,almeidamatheus@bol.com.br,Portugal,2024-05-21,Fone de Ouvido,Eletrônicos,1,798.94,PIX,2,Não
+162,Pietro da Conceição,23,Feminino,kaique03@nascimento.com,Argentina,2023-10-09,Tablet,Eletrônicos,1,1679.96,PIX,2,Sim
+163,Cecília Fernandes,20,Feminino,luna88@almeida.br,Angola,2024-09-18,Vestido,Roupas,4,1234.54,Cartão de Crédito,1,Não
+164,Miguel Mendes,31,Masculino,enzo56@yahoo.com.br,Moçambique,2025-02-28,Fogão,Casa,1,1554.58,Boleto,3,Sim
+165,Agatha Silveira,21,Masculino,rochajoao-pedro@bol.com.br,Lituânia,2024-02-19,Fogão,Casa,1,230.61,Débito,5,Sim
+166,Maria Fernanda Cavalcanti,58,Outro,maria-fernandapeixoto@bol.com.br,Moçambique,2025-02-21,Calça Jeans,Roupas,3,864.19,PIX,2,Não
+167,Bruno Gomes,29,Outro,jnunes@ig.com.br,Brasil,2023-09-02,Geladeira,Casa,1,1907.27,Cartão de Crédito,4,Não
+168,Sr. Lucas Rodrigues,20,Outro,jesusstephany@almeida.net,Angola,2024-04-14,Macarrão,Alimentos,1,720.62,Cartão de Crédito,3,Sim
+169,Yuri Ribeiro,64,Outro,camposarthur@gmail.com,Brasil,2025-02-13,Geladeira,Casa,2,98.23,PIX,2,Não
+170,Levi Fernandes,62,Feminino,sophie55@gmail.com,Argentina,2023-06-08,Camiseta,Roupas,4,83.6,Boleto,1,Sim
+171,Ana Sophia Rezende,20,Feminino,melissabarbosa@costa.br,Portugal,2024-05-23,Fogão,Casa,5,952.07,Cartão de Crédito,2,Não
+172,Srta. Alícia Castro,40,Masculino,duartelevi@martins.org,Portugal,2024-04-05,Arroz,Alimentos,3,879.53,Débito,4,Não
+173,Letícia Fernandes,39,Masculino,jalves@uol.com.br,Angola,2023-04-29,Autoajuda,Livros,5,540.77,Cartão de Crédito,4,Sim
+174,Sra. Luana Vieira,45,Outro,mbarbosa@ig.com.br,Argentina,2025-01-17,Geladeira,Casa,3,214.17,PIX,3,Não
+175,Srta. Gabriela Silva,46,Outro,pereirakevin@uol.com.br,Angola,2024-08-29,Vestido,Roupas,3,899.79,PIX,5,Não
+176,Ana Júlia Ferreira,35,Outro,pintoyasmin@silva.br,Brasil,2023-12-04,Fone de Ouvido,Eletrônicos,3,1031.04,Boleto,1,Sim
+177,Vicente da Conceição,56,Outro,portobenicio@jesus.br,Angola,2025-03-28,Notebook,Eletrônicos,1,479.63,PIX,3,Não
+178,Thales Gonçalves,54,Masculino,gabrielarezende@da.org,Moçambique,2024-05-06,Vestido,Roupas,3,750.31,Cartão de Crédito,5,Sim
+179,Dr. Davi Luiz Almeida,51,Feminino,juliapires@ig.com.br,Angola,2024-01-06,Macarrão,Alimentos,2,1921.43,Cartão de Crédito,2,Não
+180,Isabelly Santos,51,Feminino,lucca51@jesus.net,Moçambique,2024-09-27,Tablet,Eletrônicos,3,1411.04,Boleto,5,Não
+181,Sra. Isadora Barbosa,62,Feminino,sgomes@moraes.net,Argentina,2023-06-23,Notebook,Eletrônicos,1,909.56,Débito,1,Não
+182,Heitor Moreira,60,Feminino,ana-laura85@ig.com.br,Brasil,2024-04-11,Geladeira,Casa,3,1704.21,Boleto,3,Sim
+183,Gabriela da Mota,25,Masculino,bvieira@ig.com.br,Argentina,2024-07-10,Vestido,Roupas,1,728.18,PIX,4,Sim
+184,Rodrigo Silva,57,Masculino,marcelo75@mendes.org,Brasil,2024-04-05,Chocolate,Alimentos,4,1056.13,Débito,5,Sim
+185,Stephany Jesus,26,Feminino,da-rosakevin@yahoo.com.br,Brasil,2023-06-02,Fantasia,Livros,5,695.58,Boleto,2,Não
+186,Mariana Cunha,50,Masculino,anthonyviana@mendes.br,Brasil,2024-08-11,Sofá,Casa,3,337.67,PIX,2,Não
+187,João Guilherme Pinto,51,Feminino,ana69@rocha.br,Brasil,2025-03-01,Feijão,Alimentos,5,556.16,PIX,5,Sim
+188,Sra. Isabel da Cruz,50,Outro,joao-guilhermepereira@correia.com,Argentina,2024-09-25,Sofá,Casa,2,1320.88,PIX,5,Sim
+189,Alexia da Mata,70,Masculino,wmendes@freitas.br,Brasil,2025-01-27,Tablet,Eletrônicos,2,1536.25,Débito,5,Sim
+190,Eloah Ribeiro,49,Outro,moreiradanilo@da.net,Moçambique,2024-04-15,Macarrão,Alimentos,4,497.31,Débito,3,Não
+191,Davi da Cruz,22,Outro,erickda-rocha@ig.com.br,Brasil,2023-08-20,Vestido,Roupas,4,973.66,Boleto,3,Sim
+192,Gabriel Cardoso,38,Outro,duartemaria-fernanda@viana.com,Portugal,2024-09-15,Chocolate,Alimentos,2,1523.72,Cartão de Crédito,3,Sim
+193,Kamilly Melo,47,Masculino,gcosta@da.com,Portugal,2023-07-11,Suspense,Livros,2,202.66,PIX,4,Não
+194,Rebeca Caldeira,33,Masculino,yribeiro@da.net,Portugal,2024-10-03,Geladeira,Casa,2,1528.61,Débito,5,Não
+195,Bryan Barros,49,Feminino,fernandocunha@hotmail.com,Angola,2023-05-10,Smartphone,Eletrônicos,4,1015.83,Boleto,2,Não
+196,Thiago Farias,21,Masculino,maria-sophiaaragao@yahoo.com.br,Portugal,2024-06-19,Fantasia,Livros,3,1078.01,Cartão de Crédito,4,Sim
+197,Sr. Luiz Miguel Lopes,34,Outro,joao-pedrolima@yahoo.com.br,Portugal,2024-06-01,Autoajuda,Livros,1,807.16,Boleto,3,Não
+198,Emanuelly Alves,22,Feminino,giovannadias@yahoo.com.br,Moçambique,2024-12-14,Autoajuda,Livros,5,1363.99,Cartão de Crédito,2,Sim
+199,Sofia Farias,43,Feminino,joao-gabriel77@gmail.com,Portugal,2025-03-14,Geladeira,Casa,2,406.13,Débito,5,Sim
+200,Davi Lucca Carvalho,20,Masculino,marcela61@sales.com,Argentina,2023-08-22,Chocolate,Alimentos,5,919.41,Boleto,3,Não
+201,Gustavo Henrique Rocha,28,Feminino,rnovaes@costa.br,Moçambique,2023-09-04,Macarrão,Alimentos,5,1658.3,Débito,5,Não
+202,Luana Melo,48,Masculino,emanuellycardoso@nogueira.br,Portugal,2024-03-12,Arroz,Alimentos,4,1171.57,Cartão de Crédito,5,Não
+203,Lavínia Ramos,34,Outro,teixeiramilena@gmail.com,Moçambique,2025-02-17,Sofá,Casa,1,1171.21,Boleto,5,Não
+204,Marcela Costela,27,Outro,rda-rocha@ig.com.br,Argentina,2024-03-08,Smartphone,Eletrônicos,2,47.69,PIX,4,Sim
+205,Ana Luiza Lima,44,Outro,lorena41@viana.com,Argentina,2023-11-19,Fantasia,Livros,1,1414.49,Boleto,5,Não
+206,Manuela Carvalho,60,Feminino,henriquemoura@gomes.br,Moçambique,2024-02-03,Autoajuda,Livros,2,924.73,PIX,5,Não
+207,Dr. Danilo Ribeiro,61,Outro,evelynpereira@bol.com.br,Portugal,2024-10-24,Fogão,Casa,2,1915.1,PIX,5,Não
+208,Maysa da Mata,32,Feminino,portojoao@bol.com.br,Portugal,2023-08-16,Vestido,Roupas,3,964.81,PIX,3,Sim
+209,João Guilherme da Luz,54,Outro,correiadavi-luiz@uol.com.br,Moçambique,2023-07-03,Fantasia,Livros,3,1909.67,Boleto,3,Sim
+210,Larissa Barros,36,Outro,joao-gabriel26@da.com,Brasil,2023-10-26,Chocolate,Alimentos,3,1497.2,Boleto,2,Não
+211,Ana Farias,53,Outro,vsales@yahoo.com.br,Portugal,2024-11-07,Camiseta,Roupas,5,1484.37,Boleto,2,Sim
+212,Pedro Henrique Porto,60,Outro,isadorabarbosa@costela.com,Argentina,2025-01-21,Camiseta,Roupas,1,832.47,Débito,1,Sim
+213,Pedro Henrique Jesus,18,Outro,joao-vitorfarias@yahoo.com.br,Argentina,2024-04-21,Fantasia,Livros,4,1304.57,PIX,3,Não
+214,João Lucas Correia,59,Masculino,asilva@ribeiro.br,Brasil,2025-03-21,Sofá,Casa,5,1479.99,Cartão de Crédito,2,Não
+215,Bianca Gomes,29,Masculino,yda-mota@da.br,Angola,2024-09-15,Suspense,Livros,3,1754.72,Cartão de Crédito,3,Sim
+216,Maria Alice Farias,39,Feminino,ramosjoao@gmail.com,Angola,2025-02-19,Fogão,Casa,2,1703.61,Débito,3,Sim
+217,Davi Luiz Nascimento,69,Masculino,isadora23@hotmail.com,Portugal,2025-01-05,Vestido,Roupas,3,1440.01,Cartão de Crédito,3,Não
+218,Maria Alice Cardoso,54,Outro,vieiracarolina@hotmail.com,Argentina,2023-10-22,Vestido,Roupas,4,1035.41,Cartão de Crédito,4,Sim
+219,Sarah Nogueira,29,Masculino,sda-mata@uol.com.br,Angola,2023-06-17,Feijão,Alimentos,1,528.96,Boleto,4,Não
+220,Vicente da Cunha,39,Feminino,fernandodas-neves@cardoso.com,Moçambique,2024-05-20,Liquidificador,Casa,3,1310.83,Boleto,1,Sim
+221,Sra. Isabelly Pires,47,Feminino,azevedomariane@carvalho.org,Argentina,2024-06-17,Autoajuda,Livros,1,1281.04,PIX,3,Sim
+222,Dra. Isabel Pires,32,Masculino,maria-fernanda98@jesus.br,Angola,2024-08-09,Vestido,Roupas,5,753.51,Débito,5,Sim
+223,Cauê Cardoso,66,Masculino,joao-lucas61@farias.br,Moçambique,2024-09-14,Fone de Ouvido,Eletrônicos,5,1410.49,Cartão de Crédito,5,Sim
+224,Antônio Peixoto,21,Outro,taragao@moreira.org,Moçambique,2023-07-03,Calça Jeans,Roupas,2,662.95,Débito,1,Sim
+225,Sabrina Pereira,63,Outro,novaesbreno@almeida.com,Angola,2023-06-14,Fone de Ouvido,Eletrônicos,1,912.33,Débito,4,Sim
+226,Noah Ribeiro,53,Feminino,gustavo-henrique03@yahoo.com.br,Portugal,2024-08-03,Fone de Ouvido,Eletrônicos,3,1634.74,Boleto,5,Sim
+227,Isadora Cunha,20,Feminino,frocha@gmail.com,Portugal,2023-09-02,Smartphone,Eletrônicos,1,1972.41,Débito,1,Não
+228,Yasmin da Rocha,44,Masculino,leandro98@uol.com.br,Argentina,2025-03-27,Autoajuda,Livros,4,902.59,Débito,4,Sim
+229,Larissa Novaes,61,Outro,alvesmaysa@ig.com.br,Moçambique,2024-10-05,Jaqueta,Roupas,1,365.16,Débito,5,Sim
+230,Marcelo Castro,64,Masculino,catarinacampos@novaes.org,Brasil,2023-08-10,Tablet,Eletrônicos,4,1350.26,Débito,5,Não
+231,Sabrina Fogaça,70,Masculino,tda-rosa@hotmail.com,Argentina,2023-08-05,Autoajuda,Livros,2,558.54,Cartão de Crédito,1,Não
+232,Henrique Fogaça,57,Masculino,meloalexia@souza.com,Argentina,2023-06-16,Camiseta,Roupas,1,1191.95,Débito,5,Sim
+233,Ana Vitória Pinto,33,Outro,zsales@dias.net,Brasil,2024-07-20,Fantasia,Livros,2,1084.12,Cartão de Crédito,2,Não
+234,Dra. Agatha Silva,32,Outro,maria-cecilianovaes@campos.com,Moçambique,2023-09-21,Macarrão,Alimentos,2,610.51,Boleto,5,Sim
+235,Ryan Ramos,44,Feminino,gabriela57@cavalcanti.br,Portugal,2024-10-18,Notebook,Eletrônicos,4,1116.14,Cartão de Crédito,3,Não
+236,Manuela Melo,68,Outro,thales70@pinto.net,Portugal,2023-09-18,Fantasia,Livros,2,606.78,Boleto,5,Não
+237,Brenda Sales,33,Masculino,mariana27@dias.com,Portugal,2024-08-27,Vestido,Roupas,1,1129.15,Débito,5,Sim
+238,Erick Ramos,42,Masculino,wporto@uol.com.br,Portugal,2024-05-15,Jaqueta,Roupas,1,1845.23,PIX,1,Sim
+239,Esther Correia,21,Feminino,marianarocha@uol.com.br,Angola,2023-10-30,Liquidificador,Casa,1,384.44,Boleto,4,Sim
+240,Augusto Castro,39,Feminino,danilomoura@yahoo.com.br,Brasil,2023-11-26,Calça Jeans,Roupas,1,1496.29,Débito,2,Sim
+241,João Vitor Nogueira,43,Masculino,lfreitas@nunes.com,Moçambique,2024-11-09,Macarrão,Alimentos,4,937.84,PIX,3,Não
+242,Igor Sales,41,Outro,joao-miguelmelo@hotmail.com,Angola,2023-05-09,Romance,Livros,4,1525.64,PIX,2,Não
+243,Luiz Felipe Araújo,38,Feminino,pedrovieira@barros.com,Brasil,2024-05-06,Sofá,Casa,2,42.28,Débito,3,Sim
+244,Elisa da Mota,30,Feminino,azevedothales@yahoo.com.br,Argentina,2024-06-22,Suspense,Livros,4,1105.78,PIX,3,Não
+245,Clara Costa,64,Outro,lmonteiro@costela.net,Angola,2023-04-19,Suspense,Livros,3,346.84,Débito,2,Sim
+246,Sr. Rafael Viana,51,Masculino,danilo09@goncalves.br,Brasil,2024-03-20,Smartphone,Eletrônicos,4,283.61,Boleto,1,Sim
+247,Alice Barbosa,18,Masculino,joanacampos@bol.com.br,Moçambique,2024-06-17,Autoajuda,Livros,1,1239.49,Débito,4,Sim
+248,Raquel da Mota,18,Outro,sophiacardoso@nogueira.br,Moçambique,2025-03-22,Romance,Livros,1,1063.54,PIX,5,Não
+249,Dra. Letícia Sales,19,Outro,oliveiraana-sophia@ig.com.br,Angola,2023-11-10,Camiseta,Roupas,1,1053.53,Boleto,2,Não
+250,Miguel Vieira,70,Feminino,silveirabrenda@bol.com.br,Portugal,2023-06-20,Romance,Livros,3,1919.0,Débito,5,Sim
+251,Diego Cardoso,62,Masculino,pietracorreia@yahoo.com.br,Portugal,2024-05-25,Smartphone,Eletrônicos,1,816.5,Débito,5,Não
+252,Sra. Ana Costa,21,Outro,rodriguesalexia@uol.com.br,Brasil,2023-10-02,Camiseta,Roupas,4,1692.21,PIX,5,Sim
+253,Eduardo Carvalho,51,Masculino,jesusrafaela@bol.com.br,Argentina,2024-09-22,Vestido,Roupas,3,102.66,Cartão de Crédito,3,Sim
+254,Fernando Cunha,29,Feminino,marcos-viniciusporto@hotmail.com,Brasil,2025-03-26,Calça Jeans,Roupas,4,1858.46,PIX,2,Sim
+255,Ana Lívia Barros,54,Feminino,emillypires@da.com,Moçambique,2023-05-02,Chocolate,Alimentos,2,1583.09,Cartão de Crédito,5,Não
+256,Fernando da Conceição,21,Masculino,ppeixoto@castro.com,Angola,2023-05-04,Camiseta,Roupas,3,1214.29,Débito,3,Sim
+257,Anthony Gomes,58,Feminino,gabrielada-mata@uol.com.br,Angola,2023-07-08,Suspense,Livros,3,1110.55,Débito,4,Sim
+258,Felipe Moreira,61,Outro,sbarbosa@gmail.com,Angola,2023-08-23,Tablet,Eletrônicos,2,1429.09,Cartão de Crédito,3,Sim
+259,Davi Luiz da Conceição,42,Outro,davi46@moraes.org,Argentina,2023-04-25,Autoajuda,Livros,3,222.04,Cartão de Crédito,3,Não
+260,Melissa Silva,41,Feminino,vieirapietro@yahoo.com.br,Brasil,2023-06-17,Camiseta,Roupas,2,867.65,Débito,1,Sim
+261,Levi Araújo,23,Feminino,isadorada-luz@da.com,Moçambique,2024-05-30,Tablet,Eletrônicos,4,34.56,Débito,4,Sim
+262,Bárbara Dias,64,Outro,noahpereira@da.com,Argentina,2024-07-07,Sofá,Casa,4,347.31,PIX,3,Não
+263,Sr. Luiz Felipe Nogueira,49,Masculino,eduardocosta@campos.br,Brasil,2024-08-13,Vestido,Roupas,3,847.99,Débito,1,Não
+264,Dr. Daniel Monteiro,34,Masculino,kevin73@mendes.br,Angola,2023-04-26,Sofá,Casa,4,222.88,PIX,1,Não
+265,Gustavo Henrique Sales,39,Outro,mariane60@hotmail.com,Angola,2025-02-04,Chocolate,Alimentos,3,866.93,Boleto,3,Não
+266,Breno da Mota,56,Outro,xda-cunha@cunha.br,Argentina,2025-02-05,Autoajuda,Livros,2,1929.5,PIX,3,Não
+267,Ana Lívia Pires,54,Masculino,joanaazevedo@uol.com.br,Portugal,2023-07-12,Autoajuda,Livros,4,736.38,Boleto,5,Sim
+268,Diego Almeida,61,Outro,kaique20@uol.com.br,Brasil,2025-03-11,Suspense,Livros,4,1597.39,Cartão de Crédito,4,Não
+269,Thomas Porto,26,Outro,llopes@bol.com.br,Portugal,2025-03-11,Jaqueta,Roupas,2,1433.32,Débito,1,Não
+270,Eduarda Jesus,56,Feminino,gfernandes@ramos.br,Moçambique,2024-01-18,Fantasia,Livros,5,83.16,PIX,5,Sim
+271,Lorena Souza,24,Masculino,marcela87@ig.com.br,Portugal,2024-05-19,Camiseta,Roupas,5,1967.38,Débito,3,Não
+272,Marcelo Lima,24,Masculino,marianafogaca@caldeira.net,Brasil,2024-03-08,Feijão,Alimentos,5,1496.24,Boleto,4,Não
+273,Ana Sophia Pinto,43,Feminino,duartebenjamin@nogueira.com,Moçambique,2024-04-17,Sofá,Casa,3,1995.43,Débito,1,Não
+274,Lucca Costela,44,Masculino,juliana16@ig.com.br,Brasil,2024-06-18,Jaqueta,Roupas,3,692.7,Boleto,5,Não
+275,Davi Lucas Rocha,40,Feminino,ana-juliarocha@barros.br,Brasil,2023-06-26,Fantasia,Livros,3,143.68,Cartão de Crédito,1,Sim
+276,Lívia da Paz,39,Outro,silvaana-beatriz@nunes.br,Brasil,2024-03-28,Calça Jeans,Roupas,5,357.16,Boleto,3,Não
+277,Leonardo Aragão,47,Masculino,emanuellyteixeira@yahoo.com.br,Angola,2024-07-12,Calça Jeans,Roupas,4,797.21,Boleto,4,Não
+278,Gabrielly Almeida,42,Masculino,das-nevesmaria-eduarda@da.br,Argentina,2024-01-07,Jaqueta,Roupas,1,1158.92,Boleto,3,Não
+279,Julia Martins,30,Feminino,fazevedo@vieira.com,Brasil,2024-08-29,Chocolate,Alimentos,5,1932.17,PIX,5,Não
+280,João Miguel Sales,57,Feminino,maite13@da.com,Moçambique,2024-07-18,Tablet,Eletrônicos,3,1692.58,Boleto,3,Sim
+281,Carolina Nogueira,61,Masculino,lorenzopires@rodrigues.br,Portugal,2024-06-01,Notebook,Eletrônicos,3,242.73,PIX,2,Não
+282,Lorenzo Viana,44,Outro,bryanporto@bol.com.br,Argentina,2023-05-21,Fogão,Casa,4,379.65,Boleto,5,Sim
+283,Bruno Pereira,49,Feminino,nunesotavio@santos.com,Argentina,2023-10-26,Jaqueta,Roupas,4,1242.63,PIX,1,Não
+284,Srta. Ana Vitória da Costa,26,Masculino,miguelnovaes@ribeiro.org,Angola,2023-11-09,Fogão,Casa,4,1372.55,Débito,4,Não
+285,Yuri Viana,28,Masculino,agathada-costa@caldeira.com,Moçambique,2023-11-09,Notebook,Eletrônicos,3,75.06,Boleto,5,Não
+286,Dr. Raul Jesus,28,Feminino,maria-alice56@hotmail.com,Moçambique,2023-10-13,Romance,Livros,5,237.27,PIX,5,Sim
+287,Ana Lívia Souza,66,Outro,ana-livia50@azevedo.br,Angola,2024-08-20,Sofá,Casa,4,213.81,Boleto,3,Sim
+288,Daniel Porto,46,Feminino,da-pazfelipe@hotmail.com,Portugal,2024-04-06,Fone de Ouvido,Eletrônicos,1,1553.51,Boleto,2,Não
+289,Augusto Alves,63,Outro,olima@bol.com.br,Angola,2024-08-07,Calça Jeans,Roupas,2,1628.92,Cartão de Crédito,5,Não
+290,Sra. Sabrina Porto,52,Feminino,castrothiago@hotmail.com,Moçambique,2023-06-14,Sofá,Casa,3,1958.21,PIX,3,Não
+291,Nicolas Rezende,50,Outro,limacaue@alves.org,Brasil,2023-12-29,Vestido,Roupas,1,1985.05,Boleto,2,Sim
+292,Bruna Monteiro,27,Outro,igor77@hotmail.com,Portugal,2025-01-30,Vestido,Roupas,4,292.92,PIX,4,Não
+293,Raul Moura,46,Masculino,maria-luiza35@ig.com.br,Brasil,2025-03-31,Autoajuda,Livros,3,914.84,Débito,3,Sim
+294,Pedro Miguel Dias,67,Outro,scosta@cunha.com,Brasil,2024-03-15,Autoajuda,Livros,1,1593.4,Débito,2,Não
+295,Cauã Castro,70,Masculino,mda-mata@ig.com.br,Angola,2023-05-27,Macarrão,Alimentos,3,682.13,Boleto,5,Não
+296,Isabelly da Cunha,68,Feminino,zcaldeira@souza.br,Brasil,2023-12-10,Smartphone,Eletrônicos,4,42.4,Boleto,4,Não
+297,Natália Moreira,18,Feminino,ufogaca@uol.com.br,Argentina,2023-10-13,Jaqueta,Roupas,2,1750.1,PIX,1,Não
+298,Enzo Gabriel Moraes,34,Masculino,rrodrigues@moreira.com,Portugal,2023-11-13,Camiseta,Roupas,4,1254.95,Boleto,4,Sim
+299,Bryan da Rocha,63,Masculino,ocardoso@yahoo.com.br,Brasil,2024-02-22,Vestido,Roupas,1,274.07,Boleto,5,Não
+300,Sarah Almeida,18,Masculino,da-rochalara@pires.br,Portugal,2024-06-04,Fone de Ouvido,Eletrônicos,2,960.62,Boleto,4,Sim
+301,Ana Luiza Novaes,64,Masculino,maysa60@gmail.com,Brasil,2024-02-16,Macarrão,Alimentos,3,282.89,Boleto,2,Sim
+302,Anthony Peixoto,51,Outro,anthonymoura@caldeira.br,Brasil,2024-10-30,Sofá,Casa,4,708.86,Boleto,2,Não
+303,Brenda Peixoto,57,Outro,smartins@gmail.com,Angola,2023-07-06,Camiseta,Roupas,1,288.63,Cartão de Crédito,5,Não
+304,Davi Luiz Pinto,40,Feminino,viniciussilva@gmail.com,Portugal,2023-07-26,Calça Jeans,Roupas,3,1292.79,Boleto,5,Não
+305,Leandro Ramos,67,Outro,teixeiranina@moura.br,Brasil,2024-11-16,Feijão,Alimentos,5,1217.78,Boleto,4,Não
+306,Natália Correia,59,Masculino,vcardoso@nogueira.br,Argentina,2024-08-01,Fantasia,Livros,1,489.75,Cartão de Crédito,5,Sim
+307,Vinicius Rezende,41,Feminino,nicolesilveira@teixeira.br,Argentina,2025-02-06,Fantasia,Livros,3,1097.25,Boleto,4,Sim
+308,Sra. Isabel Campos,19,Outro,qviana@hotmail.com,Brasil,2024-01-28,Tablet,Eletrônicos,2,89.26,Cartão de Crédito,4,Não
+309,Isabelly Carvalho,58,Outro,benjaminporto@hotmail.com,Moçambique,2023-09-18,Fantasia,Livros,4,174.03,Boleto,3,Sim
+310,Sr. Luiz Miguel Nogueira,37,Masculino,zoliveira@moraes.com,Moçambique,2024-09-15,Calça Jeans,Roupas,5,660.23,Cartão de Crédito,3,Não
+311,Dr. Cauê Peixoto,64,Masculino,evelyn83@costela.net,Brasil,2023-09-10,Camiseta,Roupas,4,240.81,Cartão de Crédito,3,Sim
+312,Rebeca Fernandes,25,Masculino,ana-juliada-cunha@pereira.com,Argentina,2025-03-22,Notebook,Eletrônicos,4,1906.5,PIX,2,Não
+313,Luiz Miguel Campos,26,Outro,antoniorodrigues@bol.com.br,Portugal,2023-08-25,Smartphone,Eletrônicos,3,1616.14,PIX,5,Sim
+314,Dra. Maria Eduarda Almeida,34,Outro,stellagoncalves@pereira.org,Moçambique,2024-01-05,Fone de Ouvido,Eletrônicos,4,1026.46,Cartão de Crédito,4,Sim
+315,Eduarda da Mata,41,Masculino,qalmeida@lopes.com,Portugal,2025-01-15,Smartphone,Eletrônicos,2,1484.15,Cartão de Crédito,1,Sim
+316,Pedro Aragão,33,Masculino,benjamin05@bol.com.br,Angola,2023-05-03,Chocolate,Alimentos,2,366.13,Cartão de Crédito,5,Não
+317,Nicolas Cardoso,32,Feminino,mda-rosa@bol.com.br,Argentina,2024-10-06,Autoajuda,Livros,3,1653.73,PIX,1,Sim
+318,Sr. Pedro Miguel Costela,29,Masculino,ycampos@ribeiro.com,Moçambique,2023-07-17,Fone de Ouvido,Eletrônicos,1,1755.21,PIX,3,Não
+319,Sr. Diego Monteiro,23,Outro,lorenzorodrigues@bol.com.br,Angola,2024-03-28,Tablet,Eletrônicos,2,590.27,PIX,5,Sim
+320,Carolina Nogueira,47,Feminino,barbosanina@uol.com.br,Moçambique,2024-02-03,Suspense,Livros,5,1523.36,Boleto,2,Sim
+321,Sarah Campos,44,Masculino,naraujo@barros.br,Argentina,2023-06-05,Geladeira,Casa,1,1902.47,Cartão de Crédito,4,Não
+322,Thales Carvalho,24,Masculino,alvespietro@gmail.com,Moçambique,2024-11-01,Vestido,Roupas,4,1922.76,Boleto,3,Sim
+323,Nathan Gomes,20,Masculino,lara44@barbosa.com,Moçambique,2024-02-23,Autoajuda,Livros,4,1949.36,Cartão de Crédito,5,Sim
+324,Maitê Lima,50,Masculino,rcardoso@ig.com.br,Angola,2024-08-25,Smartphone,Eletrônicos,4,1328.26,Boleto,2,Não
+325,Davi Rocha,34,Feminino,camposdavi-lucca@hotmail.com,Angola,2023-09-22,Macarrão,Alimentos,4,551.19,Cartão de Crédito,2,Sim
+326,Lavínia Moreira,67,Outro,zteixeira@gmail.com,Brasil,2024-08-25,Camiseta,Roupas,2,904.64,PIX,4,Sim
+327,Srta. Isis Teixeira,52,Feminino,duartemaria-cecilia@fogaca.br,Argentina,2024-05-25,Autoajuda,Livros,4,537.37,Cartão de Crédito,1,Sim
+328,João Felipe Aragão,69,Outro,goncalvesmariane@da.org,Portugal,2023-11-10,Liquidificador,Casa,2,1673.49,PIX,2,Sim
+329,Brenda Cardoso,63,Masculino,rmendes@silva.org,Portugal,2023-12-25,Romance,Livros,3,527.73,Boleto,1,Não
+330,Mariana Almeida,46,Outro,moliveira@campos.com,Moçambique,2023-11-12,Camiseta,Roupas,4,212.8,Boleto,1,Sim
+331,Cauê Monteiro,21,Masculino,lfernandes@das.org,Argentina,2024-11-11,Vestido,Roupas,3,1375.71,Cartão de Crédito,5,Não
+332,Cauê Cunha,70,Masculino,amanda49@uol.com.br,Brasil,2024-05-18,Notebook,Eletrônicos,4,1620.5,Cartão de Crédito,3,Sim
+333,Sr. Guilherme Souza,20,Feminino,zalmeida@castro.br,Brasil,2023-11-04,Vestido,Roupas,4,997.29,Débito,4,Sim
+334,Daniel Martins,40,Masculino,davi-lucas71@ig.com.br,Argentina,2024-01-23,Macarrão,Alimentos,4,1768.01,Cartão de Crédito,5,Sim
+335,Ana Lívia Teixeira,59,Feminino,pcosta@yahoo.com.br,Angola,2023-06-30,Fantasia,Livros,1,184.57,Débito,2,Não
+336,Miguel da Costa,30,Outro,rsilveira@souza.org,Moçambique,2024-04-27,Camiseta,Roupas,4,1566.01,PIX,4,Não
+337,Sr. Nathan Cavalcanti,40,Outro,paraujo@pereira.br,Moçambique,2024-05-08,Chocolate,Alimentos,3,367.83,PIX,5,Sim
+338,Letícia da Cruz,19,Feminino,araujohenrique@gmail.com,Brasil,2025-03-25,Autoajuda,Livros,5,1999.22,Boleto,1,Sim
+339,Rodrigo Mendes,60,Masculino,elisada-cunha@barbosa.com,Portugal,2023-07-26,Liquidificador,Casa,2,1155.63,Débito,3,Sim
+340,Ana Júlia Costela,29,Masculino,cnogueira@ig.com.br,Moçambique,2023-04-20,Macarrão,Alimentos,5,66.13,PIX,5,Sim
+341,Milena da Cruz,54,Masculino,oliveirarafaela@bol.com.br,Angola,2024-05-24,Geladeira,Casa,2,985.97,Cartão de Crédito,1,Sim
+342,Sra. Luna Melo,56,Masculino,alana00@souza.net,Brasil,2024-04-17,Fogão,Casa,1,670.15,Boleto,2,Não
+343,Maria Luiza Barbosa,63,Masculino,elisa34@nunes.com,Portugal,2025-03-25,Smartphone,Eletrônicos,2,1177.35,Boleto,1,Não
+344,Gustavo Henrique Almeida,22,Feminino,olivia99@da.br,Angola,2025-03-25,Liquidificador,Casa,3,610.51,Boleto,2,Não
+345,Igor da Cruz,68,Outro,ana-luizamoura@bol.com.br,Angola,2024-09-28,Feijão,Alimentos,5,1390.19,PIX,2,Sim
+346,Thomas Lopes,42,Feminino,vlopes@castro.net,Portugal,2023-06-24,Calça Jeans,Roupas,1,1898.09,Débito,5,Sim
+347,Dra. Melissa Dias,29,Outro,icardoso@yahoo.com.br,Portugal,2025-01-09,Sofá,Casa,5,217.18,Débito,2,Não
+348,Sophia Pereira,65,Masculino,vicente56@duarte.br,Argentina,2023-12-26,Macarrão,Alimentos,2,1276.01,Cartão de Crédito,3,Não
+349,Anthony Ribeiro,18,Feminino,enzo61@hotmail.com,Argentina,2023-08-03,Camiseta,Roupas,3,520.75,Cartão de Crédito,1,Sim
+350,Gustavo Henrique Ferreira,42,Feminino,pedro-lucas81@gmail.com,Angola,2024-07-29,Vestido,Roupas,4,1764.72,PIX,5,Não
+351,Dr. Lucas da Cunha,24,Feminino,castroaugusto@barbosa.br,Moçambique,2023-08-07,Calça Jeans,Roupas,4,156.68,Cartão de Crédito,3,Sim
+352,Alice Peixoto,38,Feminino,yago70@da.org,Brasil,2024-11-20,Tablet,Eletrônicos,2,1776.98,Boleto,1,Sim
+353,Sr. Leonardo da Cunha,39,Outro,caio45@gmail.com,Moçambique,2024-12-01,Romance,Livros,4,1885.46,Boleto,5,Não
+354,Stephany Cavalcanti,28,Masculino,moreiraian@hotmail.com,Brasil,2023-10-18,Feijão,Alimentos,2,824.47,PIX,3,Não
+355,Arthur Silva,33,Masculino,dsilveira@hotmail.com,Brasil,2024-05-06,Fantasia,Livros,2,118.46,Cartão de Crédito,4,Sim
+356,Rebeca Jesus,36,Outro,ida-mata@hotmail.com,Moçambique,2024-04-24,Suspense,Livros,1,61.21,Boleto,3,Sim
+357,Ana Lívia Alves,48,Masculino,ana-vitoriaoliveira@viana.org,Portugal,2025-01-20,Fantasia,Livros,4,1790.81,PIX,1,Não
+358,Lucca Jesus,29,Feminino,ocostela@cunha.org,Angola,2025-03-22,Feijão,Alimentos,4,98.79,Débito,4,Não
+359,Sr. André Farias,32,Feminino,trodrigues@vieira.com,Moçambique,2024-03-30,Notebook,Eletrônicos,1,180.56,PIX,5,Não
+360,Valentina Souza,66,Outro,barrosmaria-clara@cunha.org,Argentina,2023-07-04,Liquidificador,Casa,4,1638.63,Débito,5,Não
+361,Maria Luiza Azevedo,54,Masculino,alexianunes@moreira.com,Angola,2024-01-31,Arroz,Alimentos,4,1806.53,Cartão de Crédito,5,Sim
+362,Yasmin Nunes,25,Feminino,yuri84@ig.com.br,Argentina,2024-05-11,Calça Jeans,Roupas,2,261.11,Débito,1,Não
+363,Nicolas Nogueira,30,Outro,beatrizpeixoto@yahoo.com.br,Argentina,2023-06-21,Geladeira,Casa,3,1822.5,Cartão de Crédito,1,Não
+364,Sr. Levi da Cunha,53,Feminino,rodriguesnicolas@yahoo.com.br,Moçambique,2023-08-03,Macarrão,Alimentos,5,921.73,Cartão de Crédito,5,Não
+365,Pedro Miguel Costa,25,Feminino,thales81@uol.com.br,Argentina,2023-07-15,Camiseta,Roupas,1,1129.74,Cartão de Crédito,3,Não
+366,Rodrigo Monteiro,44,Feminino,giovannalopes@fogaca.com,Angola,2024-12-18,Fantasia,Livros,1,352.68,Débito,2,Não
+367,Laís Martins,20,Feminino,rodrigueslavinia@hotmail.com,Portugal,2023-11-04,Camiseta,Roupas,4,1842.46,PIX,1,Não
+368,Sra. Pietra Ferreira,70,Feminino,monteirofernanda@hotmail.com,Portugal,2025-03-02,Chocolate,Alimentos,1,1945.27,Boleto,2,Não
+369,Dra. Bruna Santos,65,Feminino,nathanfarias@bol.com.br,Portugal,2023-06-11,Chocolate,Alimentos,5,1294.65,Boleto,4,Sim
+370,Lucas Gabriel Correia,70,Feminino,da-rosacaue@ig.com.br,Angola,2024-05-01,Geladeira,Casa,1,1035.39,Boleto,1,Não
+371,Dr. Otávio Santos,63,Outro,luccanunes@yahoo.com.br,Angola,2023-07-24,Camiseta,Roupas,2,393.6,Boleto,1,Sim
+372,Raquel Ramos,20,Feminino,ycaldeira@souza.br,Brasil,2023-10-14,Feijão,Alimentos,3,743.02,Débito,5,Não
+373,Ana Júlia Fogaça,58,Masculino,cauada-cruz@da.br,Brasil,2023-06-22,Jaqueta,Roupas,4,1192.15,Boleto,4,Não
+374,Isabella Nascimento,40,Masculino,dpereira@da.com,Portugal,2023-07-09,Tablet,Eletrônicos,1,779.27,Boleto,5,Sim
+375,Pedro Lucas Freitas,32,Outro,ynascimento@bol.com.br,Argentina,2023-11-02,Jaqueta,Roupas,4,1031.43,Cartão de Crédito,4,Sim
+376,João Lucas Rodrigues,59,Masculino,pedro-lucasmelo@ig.com.br,Moçambique,2025-01-21,Notebook,Eletrônicos,3,1220.6,PIX,3,Não
+377,Isabella da Rosa,42,Feminino,juanda-luz@bol.com.br,Angola,2024-12-21,Feijão,Alimentos,4,611.27,Débito,5,Sim
+378,Ana Luiza Aragão,18,Outro,vieiramaria-eduarda@da.org,Portugal,2024-11-28,Geladeira,Casa,3,1371.98,Débito,1,Não
+379,Brenda Dias,35,Outro,rbarros@pinto.br,Portugal,2025-01-06,Macarrão,Alimentos,3,384.84,Boleto,1,Não
+380,Maria Alice Peixoto,60,Feminino,lorenzosilveira@vieira.br,Argentina,2024-05-10,Fone de Ouvido,Eletrônicos,3,526.26,Débito,4,Não
+381,Yasmin Pinto,65,Masculino,murilovieira@silveira.com,Moçambique,2023-12-09,Sofá,Casa,3,1455.83,Boleto,5,Não
+382,Leandro Santos,60,Feminino,da-cunhathales@uol.com.br,Moçambique,2023-04-11,Feijão,Alimentos,5,370.46,Cartão de Crédito,4,Sim
+383,Vicente Carvalho,65,Feminino,martinsmaria-alice@bol.com.br,Moçambique,2023-09-29,Jaqueta,Roupas,1,452.28,Boleto,3,Não
+384,Letícia Cavalcanti,68,Feminino,renan49@peixoto.com,Portugal,2025-01-19,Macarrão,Alimentos,4,1703.92,Débito,1,Sim
+385,Bruna Costa,48,Masculino,peixotodanilo@uol.com.br,Moçambique,2023-10-28,Fone de Ouvido,Eletrônicos,5,603.73,Cartão de Crédito,2,Sim
+386,Sr. Luiz Fernando da Rocha,30,Feminino,rcampos@aragao.br,Angola,2025-02-07,Fogão,Casa,2,639.6,Boleto,1,Não
+387,Ana Carolina Fogaça,39,Outro,ana-carolinarocha@barros.org,Argentina,2023-08-27,Arroz,Alimentos,1,909.59,Boleto,2,Sim
+388,Alana Pires,49,Masculino,omendes@bol.com.br,Argentina,2023-10-07,Fogão,Casa,4,812.75,Débito,4,Sim
+389,Pedro Lucas Rezende,20,Outro,davi-lucas01@ig.com.br,Argentina,2023-04-27,Arroz,Alimentos,3,1516.13,Boleto,1,Sim
+390,Dra. Stella Barros,58,Outro,rebecateixeira@yahoo.com.br,Argentina,2023-11-17,Jaqueta,Roupas,3,266.57,Débito,5,Não
+391,Julia da Costa,28,Masculino,azevedolavinia@costa.net,Brasil,2024-05-06,Macarrão,Alimentos,4,1458.39,PIX,4,Sim
+392,Lorenzo Almeida,39,Feminino,novaeserick@bol.com.br,Portugal,2024-01-21,Calça Jeans,Roupas,4,48.06,Boleto,2,Sim
+393,Sra. Pietra Teixeira,64,Masculino,luiz-felipe21@bol.com.br,Moçambique,2024-02-29,Sofá,Casa,1,739.52,Cartão de Crédito,4,Não
+394,Augusto da Rocha,67,Outro,guilherme64@hotmail.com,Moçambique,2025-01-11,Smartphone,Eletrônicos,1,1310.6,Cartão de Crédito,1,Sim
+395,Maria Fernanda Moura,44,Feminino,ucostela@barbosa.br,Angola,2023-08-17,Tablet,Eletrônicos,4,1406.72,Boleto,1,Não
+396,Bernardo Viana,44,Outro,cardosovitor-gabriel@uol.com.br,Brasil,2024-02-11,Geladeira,Casa,5,1215.21,Boleto,4,Sim
+397,Dra. Luiza Caldeira,50,Outro,marina63@rezende.br,Moçambique,2024-12-25,Tablet,Eletrônicos,1,1571.67,Débito,2,Sim
+398,Juliana da Rocha,67,Feminino,camposjuliana@hotmail.com,Moçambique,2023-10-23,Jaqueta,Roupas,4,597.75,Cartão de Crédito,5,Não
+399,Emilly Nogueira,31,Outro,caldeiracarolina@hotmail.com,Angola,2024-03-03,Feijão,Alimentos,1,35.37,Cartão de Crédito,1,Não
+400,Luiza Rocha,27,Masculino,diogomonteiro@gmail.com,Moçambique,2024-07-04,Smartphone,Eletrônicos,3,1292.23,Débito,3,Não
+401,Sra. Maria Vitória Campos,47,Masculino,lucas-gabriel50@da.com,Brasil,2023-06-15,Camiseta,Roupas,3,726.83,PIX,4,Sim
+402,Maria Cecília Moraes,24,Masculino,emanuelly91@gmail.com,Brasil,2024-10-13,Calça Jeans,Roupas,3,721.48,Débito,5,Não
+403,Dra. Alexia Nogueira,64,Masculino,ana-sophia00@gmail.com,Portugal,2024-06-11,Feijão,Alimentos,1,807.55,Débito,3,Não
+404,Gustavo Alves,62,Feminino,isabel42@fernandes.com,Angola,2025-03-31,Camiseta,Roupas,2,1395.38,Cartão de Crédito,2,Sim
+405,Henrique da Rocha,44,Outro,marianarodrigues@bol.com.br,Angola,2025-03-25,Fogão,Casa,2,1226.53,PIX,5,Sim
+406,Breno Gomes,61,Outro,cramos@cunha.br,Argentina,2024-11-10,Fantasia,Livros,1,1776.31,Débito,1,Sim
+407,Thales Castro,34,Outro,freitaslucas-gabriel@gmail.com,Portugal,2025-01-17,Notebook,Eletrônicos,3,1043.01,Cartão de Crédito,4,Sim
+408,Daniel Gonçalves,48,Feminino,isis93@yahoo.com.br,Angola,2024-11-08,Camiseta,Roupas,1,1290.36,Boleto,5,Não
+409,Ana Clara da Cunha,49,Masculino,xcardoso@bol.com.br,Brasil,2023-11-16,Autoajuda,Livros,2,668.48,PIX,1,Sim
+410,Calebe Almeida,53,Outro,paulo26@bol.com.br,Angola,2024-06-10,Suspense,Livros,1,923.6,Débito,1,Não
+411,Srta. Mariana Rezende,46,Feminino,azevedomelissa@nascimento.org,Brasil,2023-11-29,Romance,Livros,1,812.84,Cartão de Crédito,5,Sim
+412,Bryan Castro,70,Masculino,rda-luz@porto.br,Moçambique,2023-10-22,Geladeira,Casa,5,1129.04,Débito,3,Não
+413,Ana Julia Monteiro,70,Masculino,fcostela@campos.br,Argentina,2023-12-11,Autoajuda,Livros,5,1537.16,Débito,3,Não
+414,Vitória Jesus,25,Masculino,anthonyrodrigues@gmail.com,Argentina,2023-05-27,Tablet,Eletrônicos,3,1661.47,PIX,5,Não
+415,Maria Fernanda Pires,62,Masculino,vgoncalves@ig.com.br,Brasil,2024-10-01,Vestido,Roupas,2,1645.46,Débito,1,Não
+416,Maria Fernanda Dias,57,Masculino,da-mataraquel@gmail.com,Argentina,2024-06-04,Fone de Ouvido,Eletrônicos,2,919.52,Boleto,3,Sim
+417,Enzo Jesus,66,Feminino,almeidacaua@cavalcanti.org,Brasil,2025-02-02,Liquidificador,Casa,4,920.2,Boleto,4,Sim
+418,Dra. Elisa da Mata,51,Outro,emanuelmartins@ig.com.br,Brasil,2024-08-23,Fogão,Casa,5,971.03,Boleto,5,Sim
+419,Dr. João Guilherme Pinto,64,Masculino,maria-alice35@ig.com.br,Brasil,2025-01-30,Autoajuda,Livros,5,1763.97,Débito,5,Sim
+420,João Lucas Souza,35,Feminino,wpereira@yahoo.com.br,Portugal,2023-04-10,Chocolate,Alimentos,2,284.98,PIX,5,Não
+421,Srta. Maitê Mendes,63,Outro,benicio41@hotmail.com,Moçambique,2024-01-14,Calça Jeans,Roupas,2,1252.09,PIX,3,Sim
+422,Carolina Castro,63,Outro,calebelopes@ig.com.br,Argentina,2024-11-17,Geladeira,Casa,1,1523.94,Débito,5,Não
+423,Ian Nunes,61,Outro,ana-luizarocha@cavalcanti.br,Moçambique,2024-05-24,Chocolate,Alimentos,1,1050.23,Cartão de Crédito,4,Sim
+424,Ian Cardoso,21,Outro,silveirajoao-gabriel@yahoo.com.br,Brasil,2024-05-05,Jaqueta,Roupas,2,1967.23,PIX,2,Sim
+425,Isis Cavalcanti,62,Feminino,diogo60@ig.com.br,Argentina,2023-05-18,Liquidificador,Casa,3,1629.91,Cartão de Crédito,5,Sim
+426,Heloísa Barros,65,Outro,sabrinacavalcanti@gmail.com,Moçambique,2024-07-05,Suspense,Livros,5,1570.77,PIX,1,Não
+427,Lucas da Cruz,42,Feminino,gomesaugusto@gmail.com,Portugal,2024-05-04,Liquidificador,Casa,1,1489.9,Boleto,5,Não
+428,Giovanna da Rocha,32,Outro,freitasolivia@gmail.com,Portugal,2024-07-16,Sofá,Casa,2,595.41,Boleto,1,Sim
+429,Alícia Rocha,29,Outro,fernandomoreira@hotmail.com,Moçambique,2025-02-17,Fone de Ouvido,Eletrônicos,1,862.73,PIX,2,Sim
+430,Augusto Duarte,55,Feminino,vitor-hugomartins@ig.com.br,Brasil,2024-09-06,Chocolate,Alimentos,2,89.48,PIX,5,Sim
+431,Dra. Carolina Pires,67,Outro,rochamaria-luiza@hotmail.com,Moçambique,2025-03-07,Chocolate,Alimentos,5,1104.82,Cartão de Crédito,3,Sim
+432,Nicolas Nunes,29,Outro,brendaduarte@fogaca.br,Brasil,2023-09-07,Sofá,Casa,4,1090.73,Débito,1,Não
+433,Leonardo Pires,32,Masculino,jramos@hotmail.com,Portugal,2025-03-26,Macarrão,Alimentos,3,444.71,Débito,5,Sim
+434,Yago Cunha,25,Outro,calebefarias@fogaca.br,Portugal,2023-06-14,Suspense,Livros,5,1838.03,Boleto,1,Não
+435,Ryan Ramos,42,Masculino,brenda87@cardoso.br,Angola,2024-03-09,Macarrão,Alimentos,1,1823.56,PIX,5,Não
+436,Bernardo Cunha,49,Masculino,ijesus@hotmail.com,Portugal,2024-03-17,Jaqueta,Roupas,5,173.87,Cartão de Crédito,2,Sim
+437,Eduardo Freitas,58,Masculino,srezende@rezende.net,Argentina,2023-07-01,Vestido,Roupas,1,419.1,Débito,1,Sim
+438,Sr. Ian Nunes,19,Feminino,gabriel13@bol.com.br,Portugal,2023-07-27,Smartphone,Eletrônicos,1,117.99,PIX,5,Sim
+439,Olivia Gomes,54,Masculino,evelynfarias@ribeiro.com,Portugal,2023-05-28,Fantasia,Livros,4,1264.13,Débito,3,Sim
+440,Nina da Rosa,42,Outro,antonioda-rocha@gmail.com,Brasil,2023-08-05,Liquidificador,Casa,5,135.84,Cartão de Crédito,1,Não
+441,Milena Gomes,50,Masculino,da-motaisadora@martins.com,Portugal,2024-05-27,Arroz,Alimentos,3,1532.9,Débito,4,Não
+442,Sr. Rafael Fogaça,70,Outro,nicolasduarte@uol.com.br,Brasil,2025-03-22,Suspense,Livros,5,447.53,Débito,5,Não
+443,João Miguel Lima,58,Masculino,felipe58@lima.br,Portugal,2023-06-14,Arroz,Alimentos,5,1750.79,Boleto,1,Sim
+444,Dr. Pedro Miguel Ferreira,18,Outro,evelynrocha@azevedo.com,Moçambique,2023-04-17,Romance,Livros,3,428.01,PIX,2,Não
+445,Dra. Amanda Duarte,59,Outro,renan19@duarte.org,Argentina,2023-07-04,Calça Jeans,Roupas,2,1237.6,PIX,2,Sim
+446,Matheus Farias,29,Outro,da-rochaagatha@martins.com,Moçambique,2025-03-19,Fone de Ouvido,Eletrônicos,5,155.56,Cartão de Crédito,3,Sim
+447,Sr. Vinicius Nunes,30,Outro,nascimentoagatha@ferreira.br,Moçambique,2024-04-05,Autoajuda,Livros,3,265.15,Boleto,1,Não
+448,Luiz Felipe Jesus,57,Masculino,araujomaria-fernanda@campos.com,Argentina,2024-11-11,Chocolate,Alimentos,4,663.41,PIX,5,Sim
+449,Sarah Nogueira,54,Outro,costeladiogo@ribeiro.br,Portugal,2024-07-19,Chocolate,Alimentos,2,19.62,Boleto,2,Não
+450,Maria Eduarda Campos,35,Feminino,davi-lucasmartins@pires.br,Argentina,2025-01-29,Chocolate,Alimentos,4,896.26,PIX,4,Sim
+451,Calebe Ribeiro,29,Outro,vnascimento@uol.com.br,Moçambique,2023-10-12,Tablet,Eletrônicos,2,1783.68,Boleto,3,Sim
+452,Marcela Viana,64,Masculino,hporto@vieira.br,Brasil,2024-06-24,Liquidificador,Casa,5,1162.01,Boleto,1,Não
+453,Sr. Anthony Rodrigues,52,Outro,azevedogabriel@rocha.br,Angola,2024-01-14,Jaqueta,Roupas,4,454.38,PIX,2,Não
+454,Vitor Gabriel Mendes,50,Outro,joaquim87@fernandes.br,Brasil,2024-02-16,Autoajuda,Livros,5,31.08,Boleto,5,Sim
+455,Dra. Marina Cunha,66,Outro,pietrofogaca@barros.com,Argentina,2024-02-19,Suspense,Livros,2,1137.05,Boleto,4,Não
+456,Nicole Melo,20,Masculino,enrico69@ig.com.br,Angola,2024-01-11,Camiseta,Roupas,3,745.18,Cartão de Crédito,2,Não
+457,Alexandre Lima,42,Feminino,isaacazevedo@campos.net,Angola,2024-09-26,Smartphone,Eletrônicos,3,215.42,PIX,3,Sim
+458,Rafael Rezende,42,Outro,esilva@hotmail.com,Angola,2023-10-30,Arroz,Alimentos,5,510.66,Boleto,5,Não
+459,Juan Moreira,40,Feminino,fsouza@ig.com.br,Angola,2024-11-27,Romance,Livros,5,1765.25,Débito,2,Sim
+460,Bruno Barros,22,Outro,scaldeira@gmail.com,Portugal,2024-01-26,Calça Jeans,Roupas,2,323.14,Cartão de Crédito,2,Não
+461,Eloah Alves,69,Feminino,luiz-gustavo83@moreira.com,Brasil,2024-11-30,Fantasia,Livros,4,429.3,Boleto,4,Sim
+462,Dr. João Pedro Pires,33,Masculino,helena10@hotmail.com,Argentina,2023-08-28,Sofá,Casa,2,1262.79,Cartão de Crédito,5,Sim
+463,Pietra Cavalcanti,21,Masculino,salesalicia@ig.com.br,Portugal,2023-09-26,Vestido,Roupas,5,1938.79,Cartão de Crédito,3,Sim
+464,Ana Luiza Vieira,31,Feminino,samuel25@uol.com.br,Moçambique,2024-02-02,Fantasia,Livros,2,446.53,Débito,5,Sim
+465,Nina Santos,68,Outro,gabrielly39@oliveira.com,Argentina,2024-10-16,Geladeira,Casa,2,1451.13,PIX,4,Sim
+466,Maria Vitória da Mata,32,Feminino,barbaramoura@vieira.com,Angola,2024-01-25,Camiseta,Roupas,1,412.67,Débito,2,Sim
+467,Milena Silva,29,Feminino,vicente62@uol.com.br,Moçambique,2025-01-25,Liquidificador,Casa,5,1011.63,Cartão de Crédito,1,Não
+468,Ana Laura Moreira,60,Masculino,alexandre45@farias.br,Moçambique,2023-10-05,Liquidificador,Casa,4,1048.87,PIX,1,Não
+469,Carlos Eduardo Jesus,32,Feminino,da-luzmaria-cecilia@uol.com.br,Angola,2024-01-01,Arroz,Alimentos,4,276.43,Débito,2,Sim
+470,Sr. Vitor Hugo Novaes,36,Outro,mirellacastro@campos.net,Moçambique,2025-01-15,Autoajuda,Livros,2,20.88,Cartão de Crédito,5,Sim
+471,Dra. Joana Cavalcanti,51,Masculino,duarteandre@alves.com,Angola,2024-03-18,Jaqueta,Roupas,4,730.92,Boleto,4,Não
+472,Srta. Lorena Pereira,34,Outro,vitor-gabrielcunha@da.br,Angola,2024-08-15,Geladeira,Casa,5,558.37,Débito,2,Não
+473,Dr. Miguel Cardoso,53,Outro,ana-vitoriacaldeira@bol.com.br,Angola,2023-11-21,Jaqueta,Roupas,5,1114.27,PIX,3,Não
+474,Natália Martins,67,Outro,alexia57@araujo.net,Angola,2023-05-30,Camiseta,Roupas,2,898.72,Boleto,1,Sim
+475,Maria Julia Porto,50,Feminino,maraujo@da.br,Portugal,2023-06-14,Liquidificador,Casa,2,784.32,Cartão de Crédito,1,Sim
+476,Pedro Lucas da Rosa,48,Outro,felipe70@duarte.com,Angola,2023-11-27,Smartphone,Eletrônicos,3,451.32,Cartão de Crédito,5,Sim
+477,Luna da Cruz,64,Feminino,peixotodavi-lucca@bol.com.br,Angola,2025-03-14,Geladeira,Casa,5,124.35,Boleto,4,Não
+478,Srta. Fernanda Caldeira,18,Masculino,juliaramos@costela.br,Moçambique,2023-12-27,Feijão,Alimentos,1,1570.08,Boleto,5,Sim
+479,Pietra Nascimento,61,Masculino,zduarte@correia.com,Portugal,2023-12-29,Camiseta,Roupas,2,182.82,PIX,4,Não
+480,Sr. Pedro Lucas Moura,60,Feminino,jpinto@araujo.net,Angola,2023-10-18,Sofá,Casa,5,40.58,Cartão de Crédito,1,Não
+481,Luiz Henrique Correia,64,Outro,kevinfreitas@moura.org,Moçambique,2023-08-06,Macarrão,Alimentos,3,460.33,Boleto,4,Não
+482,Natália Ferreira,54,Masculino,almeidatheo@sales.com,Portugal,2024-10-24,Vestido,Roupas,5,221.87,Cartão de Crédito,5,Não
+483,Isadora Almeida,39,Masculino,lucas-gabrielmelo@da.com,Moçambique,2024-01-19,Macarrão,Alimentos,4,1932.45,Débito,2,Não
+484,Vicente Farias,67,Feminino,almeidaeduarda@gmail.com,Angola,2025-02-11,Liquidificador,Casa,4,241.37,Cartão de Crédito,4,Sim
+485,Fernanda Ferreira,61,Outro,barbosabruno@ig.com.br,Argentina,2023-11-01,Chocolate,Alimentos,3,1037.84,Cartão de Crédito,3,Sim
+486,Maria Clara Santos,36,Masculino,oliveirajulia@da.com,Angola,2024-02-18,Arroz,Alimentos,5,1863.48,Débito,3,Não
+487,Sra. Maria Fernanda Campos,31,Outro,peixotolara@uol.com.br,Portugal,2024-03-26,Calça Jeans,Roupas,4,1476.85,Boleto,2,Não
+488,Srta. Maysa Campos,31,Masculino,danilocavalcanti@yahoo.com.br,Argentina,2025-03-05,Jaqueta,Roupas,2,1560.09,Cartão de Crédito,1,Não
+489,Ana Lívia Gomes,57,Masculino,silveiraanthony@gmail.com,Moçambique,2023-09-30,Fone de Ouvido,Eletrônicos,3,1245.13,Débito,5,Não
+490,Lavínia da Costa,49,Masculino,gnovaes@gomes.br,Moçambique,2024-03-11,Chocolate,Alimentos,2,1502.84,Boleto,1,Não
+491,Luiz Felipe Pereira,48,Outro,alvesana-clara@uol.com.br,Brasil,2023-10-27,Geladeira,Casa,4,1722.2,Boleto,4,Sim
+492,Davi Lucca Barros,62,Outro,eloah02@lopes.br,Angola,2024-11-19,Arroz,Alimentos,1,1351.47,Débito,5,Sim
+493,Matheus Moura,38,Feminino,qda-mota@uol.com.br,Moçambique,2023-07-20,Feijão,Alimentos,5,533.07,PIX,4,Não
+494,Sra. Joana Nogueira,41,Masculino,nogueirajulia@mendes.br,Angola,2023-04-20,Suspense,Livros,4,1404.42,PIX,3,Não
+495,Vicente Silveira,35,Feminino,brunomelo@uol.com.br,Argentina,2024-11-02,Sofá,Casa,5,1375.16,Cartão de Crédito,3,Sim
+496,Ana Carolina Vieira,53,Feminino,augusto73@hotmail.com,Angola,2023-10-06,Calça Jeans,Roupas,2,951.24,Cartão de Crédito,2,Não
+497,Srta. Alexia Rezende,49,Masculino,valentina78@uol.com.br,Moçambique,2024-04-11,Geladeira,Casa,4,607.07,Cartão de Crédito,4,Sim
+498,Kaique Nascimento,62,Masculino,ian52@sales.br,Brasil,2024-03-30,Jaqueta,Roupas,4,1679.55,Cartão de Crédito,4,Não
+499,Pedro Miguel Oliveira,34,Feminino,davi-luiz67@gmail.com,Portugal,2023-12-22,Geladeira,Casa,3,49.47,Cartão de Crédito,3,Sim
+500,Natália Gonçalves,54,Outro,nunesbernardo@da.br,Moçambique,2023-07-11,Jaqueta,Roupas,3,656.93,Débito,4,Sim
+501,Joaquim Melo,42,Outro,sarah66@silva.net,Portugal,2025-01-04,Suspense,Livros,2,1284.76,PIX,4,Não
+502,Marina Campos,22,Masculino,manuela14@da.net,Argentina,2023-09-20,Feijão,Alimentos,3,640.59,PIX,3,Não
+503,Rafaela Nogueira,35,Feminino,fbarbosa@caldeira.com,Portugal,2024-02-19,Fogão,Casa,4,342.96,Cartão de Crédito,2,Sim
+504,Srta. Ana Lívia Pires,60,Feminino,rnovaes@fernandes.br,Brasil,2024-01-10,Calça Jeans,Roupas,4,214.99,Cartão de Crédito,4,Sim
+505,Vicente Silva,19,Feminino,vieirathales@castro.br,Moçambique,2023-07-07,Smartphone,Eletrônicos,3,1240.02,Cartão de Crédito,4,Não
+506,Maria Vitória da Mata,32,Masculino,gabrielamoreira@uol.com.br,Portugal,2023-07-29,Suspense,Livros,2,1058.22,Boleto,1,Sim
+507,Sr. Theo Rodrigues,60,Feminino,svieira@souza.net,Portugal,2024-12-12,Fantasia,Livros,5,1870.37,Débito,2,Sim
+508,Bruno Ramos,55,Outro,fmartins@porto.net,Angola,2023-10-27,Fogão,Casa,5,1283.18,PIX,3,Não
+509,Gustavo Silva,52,Masculino,drodrigues@da.br,Brasil,2023-12-05,Autoajuda,Livros,3,830.29,Boleto,3,Sim
+510,Isadora Melo,18,Outro,salesryan@da.br,Argentina,2025-01-23,Macarrão,Alimentos,4,1074.85,Débito,4,Não
+511,Emanuelly Fernandes,18,Feminino,usales@hotmail.com,Portugal,2024-06-16,Sofá,Casa,1,1100.94,Boleto,4,Não
+512,João Vitor da Cruz,43,Masculino,fpinto@santos.com,Argentina,2024-07-27,Fantasia,Livros,2,533.33,Débito,2,Não
+513,Bianca Barros,36,Outro,zpires@da.com,Moçambique,2025-02-20,Chocolate,Alimentos,2,1708.43,Boleto,2,Não
+514,Stella Silveira,25,Outro,valentinamonteiro@uol.com.br,Angola,2024-07-08,Fogão,Casa,3,1403.94,Débito,2,Não
+515,Danilo da Luz,19,Masculino,isadora08@ramos.com,Brasil,2023-05-23,Liquidificador,Casa,2,1944.94,PIX,3,Sim
+516,Sra. Mariana Carvalho,63,Feminino,luiza96@pereira.com,Brasil,2023-09-26,Camiseta,Roupas,2,39.3,Boleto,3,Não
+517,Clarice Melo,37,Feminino,da-luzian@yahoo.com.br,Portugal,2024-04-23,Romance,Livros,3,169.64,Boleto,1,Não
+518,Alana da Luz,67,Feminino,mmelo@da.br,Brasil,2023-07-08,Fogão,Casa,2,392.46,PIX,4,Sim
+519,Raul Ramos,25,Outro,luiz-otavio47@freitas.org,Argentina,2024-06-09,Fantasia,Livros,2,1477.86,Cartão de Crédito,2,Não
+520,João Felipe Cunha,65,Masculino,dmoreira@moura.br,Moçambique,2024-04-17,Vestido,Roupas,4,1366.07,PIX,3,Sim
+521,Sr. Enzo Gabriel Fernandes,58,Outro,fernandesnoah@bol.com.br,Brasil,2023-10-16,Liquidificador,Casa,3,967.65,PIX,2,Não
+522,Luiz Henrique Campos,21,Outro,moreirajulia@bol.com.br,Argentina,2024-02-04,Notebook,Eletrônicos,4,655.78,Boleto,3,Sim
+523,Davi Lucas Rezende,43,Masculino,zda-mata@ig.com.br,Brasil,2024-05-03,Fone de Ouvido,Eletrônicos,5,318.43,Cartão de Crédito,2,Sim
+524,Sophie Lopes,49,Masculino,joao-felipecaldeira@yahoo.com.br,Moçambique,2023-07-24,Arroz,Alimentos,1,717.48,Boleto,5,Sim
+525,Luana Fogaça,26,Feminino,souzaluana@cardoso.br,Argentina,2025-02-15,Macarrão,Alimentos,4,1469.05,Cartão de Crédito,4,Não
+526,Kaique Rezende,64,Masculino,peixotosamuel@gmail.com,Portugal,2024-12-23,Fone de Ouvido,Eletrônicos,4,1122.46,Débito,2,Sim
+527,Maria Alice Alves,52,Feminino,pietrocastro@ig.com.br,Portugal,2023-05-03,Autoajuda,Livros,5,1829.8,Boleto,1,Sim
+528,Danilo Nunes,46,Feminino,lda-conceicao@hotmail.com,Portugal,2024-09-02,Geladeira,Casa,4,11.43,Débito,2,Sim
+529,Srta. Maria Vitória Farias,57,Feminino,da-luzluiz-miguel@yahoo.com.br,Moçambique,2024-08-19,Jaqueta,Roupas,1,1320.0,Débito,2,Não
+530,Dr. Igor Silva,67,Outro,barrosana-livia@fernandes.com,Argentina,2025-03-12,Geladeira,Casa,3,825.51,PIX,1,Sim
+531,Noah da Cunha,51,Outro,wrodrigues@da.com,Brasil,2023-10-11,Notebook,Eletrônicos,2,1748.25,Boleto,1,Não
+532,Sr. Davi Lucca Gonçalves,30,Masculino,rafaelabarros@da.br,Brasil,2024-09-16,Fogão,Casa,4,1056.38,PIX,1,Não
+533,Ian Lima,32,Outro,pereiragabrielly@hotmail.com,Brasil,2024-10-23,Notebook,Eletrônicos,4,1857.52,Cartão de Crédito,4,Sim
+534,Luigi Cardoso,41,Outro,fmartins@hotmail.com,Angola,2025-03-29,Arroz,Alimentos,5,538.97,Cartão de Crédito,1,Não
+535,Thiago Caldeira,22,Masculino,bruna08@mendes.com,Moçambique,2023-06-04,Smartphone,Eletrônicos,2,1068.01,Boleto,2,Sim
+536,Sr. Bryan Teixeira,54,Outro,silvadaniel@ig.com.br,Argentina,2024-06-19,Fogão,Casa,1,1534.9,PIX,4,Não
+537,Juliana Fogaça,24,Masculino,pedro-lucasnogueira@pires.com,Argentina,2024-07-10,Fogão,Casa,5,681.65,Boleto,5,Não
+538,Ana Júlia Peixoto,40,Feminino,moreiratheo@hotmail.com,Moçambique,2023-11-10,Macarrão,Alimentos,4,1530.73,Débito,3,Sim
+539,Lucas Lima,54,Outro,portocarolina@gmail.com,Argentina,2023-07-17,Autoajuda,Livros,3,1923.69,Débito,4,Sim
+540,Daniel Aragão,64,Masculino,joao90@rezende.com,Portugal,2023-11-30,Liquidificador,Casa,5,278.82,PIX,1,Não
+541,Dr. Fernando Viana,32,Masculino,acardoso@ig.com.br,Portugal,2023-11-27,Tablet,Eletrônicos,5,1027.43,Boleto,1,Sim
+542,Nathan Nogueira,47,Feminino,eduardoda-costa@ig.com.br,Argentina,2024-12-04,Jaqueta,Roupas,3,1780.35,Boleto,2,Não
+543,Alice Sales,69,Feminino,agatha12@costa.br,Brasil,2024-05-12,Fogão,Casa,5,1836.58,Cartão de Crédito,3,Não
+544,Dr. Luiz Otávio da Rosa,29,Feminino,teixeiraana-luiza@mendes.br,Moçambique,2024-08-22,Tablet,Eletrônicos,1,1464.27,Débito,1,Sim
+545,Sr. Nicolas Porto,67,Feminino,camposbrenda@uol.com.br,Portugal,2024-04-28,Fantasia,Livros,1,1740.88,Boleto,5,Sim
+546,Dr. Pedro Lucas Nogueira,58,Outro,gabrielasilveira@campos.com,Angola,2024-07-28,Tablet,Eletrônicos,5,91.95,Boleto,3,Sim
+547,Valentina Nunes,27,Masculino,pfreitas@bol.com.br,Angola,2024-05-03,Romance,Livros,2,869.55,Débito,2,Sim
+548,Pedro Lucas Fernandes,39,Masculino,fariasalice@yahoo.com.br,Angola,2023-12-29,Liquidificador,Casa,5,804.39,Cartão de Crédito,4,Não
+549,Lucca Santos,67,Outro,danielacampos@peixoto.br,Argentina,2025-02-28,Vestido,Roupas,5,404.24,Débito,5,Sim
+550,Ana Carolina Pires,53,Outro,rezendeaugusto@bol.com.br,Moçambique,2024-03-26,Calça Jeans,Roupas,1,539.85,Débito,3,Sim
+551,Bárbara Rodrigues,25,Outro,theo38@hotmail.com,Angola,2024-06-20,Autoajuda,Livros,3,389.07,PIX,5,Sim
+552,Esther Duarte,67,Feminino,valentinadias@hotmail.com,Argentina,2024-09-15,Chocolate,Alimentos,5,300.18,Cartão de Crédito,2,Sim
+553,Noah Cardoso,61,Feminino,da-costabryan@bol.com.br,Argentina,2023-10-27,Smartphone,Eletrônicos,1,493.67,Boleto,3,Sim
+554,Murilo Castro,39,Outro,bernardo12@yahoo.com.br,Brasil,2023-06-27,Chocolate,Alimentos,4,55.27,Boleto,5,Sim
+555,Nathan Nunes,31,Outro,ana-carolinamoraes@araujo.com,Moçambique,2024-10-25,Chocolate,Alimentos,5,1462.55,Boleto,1,Não
+556,Cecília Duarte,55,Outro,rochaluigi@cardoso.br,Moçambique,2024-04-18,Tablet,Eletrônicos,2,129.62,Boleto,5,Não
+557,Pietro Costela,21,Feminino,gustavo-henrique52@campos.br,Brasil,2023-10-02,Fone de Ouvido,Eletrônicos,3,1329.33,PIX,1,Sim
+558,Alana Nascimento,36,Outro,isismelo@ig.com.br,Angola,2023-09-29,Vestido,Roupas,5,1953.46,Cartão de Crédito,3,Não
+559,Leonardo Gonçalves,56,Outro,nsouza@ig.com.br,Brasil,2025-02-14,Calça Jeans,Roupas,5,1933.91,Cartão de Crédito,1,Sim
+560,Dr. Anthony Freitas,51,Feminino,rebecada-costa@ig.com.br,Portugal,2024-05-31,Fantasia,Livros,2,46.56,PIX,3,Não
+561,Paulo Alves,33,Outro,nogueirabernardo@fernandes.br,Portugal,2024-03-09,Tablet,Eletrônicos,4,1781.9,Cartão de Crédito,5,Não
+562,Dra. Maria Teixeira,32,Masculino,fariasnathan@nunes.net,Portugal,2025-03-27,Suspense,Livros,1,1462.48,Boleto,4,Sim
+563,Davi Luiz Monteiro,54,Masculino,gda-costa@souza.br,Angola,2023-08-07,Macarrão,Alimentos,4,1089.05,Boleto,2,Sim
+564,Catarina Moraes,26,Feminino,faraujo@yahoo.com.br,Moçambique,2024-08-11,Vestido,Roupas,2,1315.9,Boleto,3,Sim
+565,Ana Luiza Araújo,53,Outro,freitassofia@gmail.com,Brasil,2024-11-01,Jaqueta,Roupas,2,1456.89,PIX,4,Não
+566,Rafael Caldeira,37,Feminino,juliateixeira@hotmail.com,Portugal,2024-11-02,Calça Jeans,Roupas,1,271.78,Cartão de Crédito,5,Não
+567,Vitor Gabriel Azevedo,56,Outro,gnogueira@yahoo.com.br,Moçambique,2023-05-04,Calça Jeans,Roupas,2,1377.88,PIX,1,Não
+568,Giovanna Cunha,26,Outro,fogacaluiz-henrique@souza.br,Moçambique,2024-04-02,Autoajuda,Livros,2,1705.74,Débito,4,Sim
+569,Catarina Caldeira,28,Masculino,vitoriapires@gmail.com,Argentina,2024-05-18,Fone de Ouvido,Eletrônicos,1,1851.62,Débito,2,Sim
+570,Heitor das Neves,66,Masculino,fsilva@yahoo.com.br,Brasil,2023-10-24,Vestido,Roupas,5,984.99,PIX,4,Sim
+571,Luiz Gustavo Cunha,45,Feminino,gsales@ig.com.br,Brasil,2024-05-29,Fogão,Casa,3,794.36,Cartão de Crédito,5,Sim
+572,Maria Alice Santos,46,Feminino,rochasophia@monteiro.br,Brasil,2025-02-18,Vestido,Roupas,1,1119.82,Cartão de Crédito,2,Não
+573,Srta. Catarina da Luz,46,Feminino,luiz-felipecosta@ribeiro.net,Portugal,2024-07-14,Chocolate,Alimentos,2,850.7,Cartão de Crédito,5,Sim
+574,João Miguel Oliveira,47,Outro,ananovaes@ig.com.br,Angola,2024-11-03,Smartphone,Eletrônicos,2,1559.67,Boleto,4,Não
+575,Pedro Lucas da Luz,38,Feminino,da-motaanthony@yahoo.com.br,Brasil,2024-09-04,Vestido,Roupas,5,1794.27,Boleto,4,Sim
+576,Clara Alves,34,Feminino,rodrigoteixeira@gmail.com,Argentina,2025-04-07,Smartphone,Eletrônicos,1,1415.39,PIX,1,Não
+577,Dra. Manuela Pinto,64,Outro,carlos-eduardo61@uol.com.br,Moçambique,2024-05-22,Vestido,Roupas,5,767.41,Boleto,3,Sim
+578,Bryan Freitas,28,Masculino,cavalcantijoao-felipe@mendes.br,Argentina,2024-09-28,Fone de Ouvido,Eletrônicos,3,625.94,Débito,3,Sim
+579,Mariane Jesus,25,Masculino,cunhadanilo@campos.net,Argentina,2023-08-20,Tablet,Eletrônicos,1,922.7,Débito,5,Sim
+580,Alícia Jesus,56,Feminino,wda-costa@ig.com.br,Argentina,2023-04-16,Vestido,Roupas,4,826.2,Cartão de Crédito,5,Sim
+581,Henrique Pereira,33,Outro,livia06@souza.com,Portugal,2024-04-27,Sofá,Casa,1,377.83,Cartão de Crédito,3,Sim
+582,Laura Nunes,27,Masculino,cunhadiogo@bol.com.br,Moçambique,2023-05-18,Geladeira,Casa,3,1841.57,Cartão de Crédito,1,Não
+583,João Gabriel Ramos,29,Masculino,raquellopes@bol.com.br,Portugal,2023-06-24,Sofá,Casa,4,1501.18,PIX,1,Sim
+584,Ana Carolina Silveira,67,Feminino,kamillyalves@gmail.com,Portugal,2024-04-14,Chocolate,Alimentos,1,1519.3,Cartão de Crédito,3,Não
+585,Lucas Nunes,26,Masculino,aragaomaria-alice@viana.br,Portugal,2024-09-19,Chocolate,Alimentos,5,427.59,Boleto,5,Sim
+586,Davi Lucca Dias,24,Outro,ana75@hotmail.com,Moçambique,2023-09-17,Fone de Ouvido,Eletrônicos,5,1868.44,PIX,4,Não
+587,Eduardo Santos,34,Outro,edas-neves@costela.net,Moçambique,2024-09-19,Geladeira,Casa,2,1232.44,Débito,5,Não
+588,Erick Silveira,49,Masculino,da-mataana-luiza@fogaca.com,Moçambique,2024-10-24,Jaqueta,Roupas,2,13.15,Cartão de Crédito,4,Sim
+589,Catarina Nogueira,65,Masculino,milena74@da.com,Moçambique,2023-12-09,Fantasia,Livros,1,674.25,Boleto,1,Sim
+590,Gabriel Azevedo,62,Feminino,enzo-gabrielsilva@barros.org,Portugal,2024-10-28,Tablet,Eletrônicos,3,1018.31,PIX,1,Sim
+591,Sr. João Miguel da Rocha,61,Feminino,vitor33@fernandes.org,Portugal,2023-07-05,Romance,Livros,2,396.09,PIX,4,Não
+592,Elisa da Paz,69,Masculino,peixotoandre@cardoso.br,Argentina,2023-04-29,Suspense,Livros,4,1785.2,PIX,4,Não
+593,Davi da Paz,65,Masculino,yurimendes@moraes.org,Moçambique,2023-11-02,Macarrão,Alimentos,5,1076.41,Boleto,5,Não
+594,Isabella Freitas,69,Feminino,iduarte@hotmail.com,Brasil,2023-08-18,Jaqueta,Roupas,1,684.91,Débito,5,Sim
+595,Benício Pinto,54,Outro,pietradias@gmail.com,Angola,2025-03-28,Camiseta,Roupas,3,1413.48,PIX,1,Não
+596,Fernanda Pinto,44,Masculino,giovannamartins@cavalcanti.br,Angola,2023-08-09,Jaqueta,Roupas,4,1660.62,PIX,2,Não
+597,Breno Fogaça,29,Masculino,pietro19@nogueira.com,Portugal,2024-11-11,Notebook,Eletrônicos,1,893.11,Cartão de Crédito,4,Sim
+598,Dra. Maria Alice Novaes,30,Feminino,cunhadavi-lucca@da.net,Angola,2023-12-10,Geladeira,Casa,3,295.16,Cartão de Crédito,5,Sim
+599,Luiz Henrique Aragão,31,Outro,igorda-paz@da.com,Brasil,2023-06-10,Fantasia,Livros,5,240.51,PIX,1,Sim
+600,Sr. Lorenzo da Paz,39,Feminino,kevinmoura@da.org,Brasil,2024-03-23,Tablet,Eletrônicos,1,1159.34,PIX,2,Não
+601,Paulo das Neves,30,Masculino,luna23@bol.com.br,Portugal,2023-06-06,Macarrão,Alimentos,4,1345.54,PIX,2,Sim
+602,Maria Fernanda das Neves,35,Masculino,ulopes@yahoo.com.br,Brasil,2024-06-17,Liquidificador,Casa,2,1089.63,PIX,3,Sim
+603,Carlos Eduardo Dias,63,Feminino,caua54@silva.net,Moçambique,2024-12-23,Calça Jeans,Roupas,1,629.64,PIX,5,Não
+604,Laís Dias,21,Masculino,nina98@fernandes.com,Brasil,2023-11-07,Romance,Livros,1,773.36,Cartão de Crédito,4,Não
+605,Esther da Conceição,29,Outro,mcosta@bol.com.br,Moçambique,2024-01-08,Fogão,Casa,5,717.69,PIX,2,Sim
+606,Murilo Pires,66,Feminino,vieiracecilia@yahoo.com.br,Moçambique,2023-06-29,Camiseta,Roupas,4,203.55,PIX,4,Não
+607,Sr. Diogo Porto,32,Masculino,bryanda-paz@da.org,Argentina,2024-08-26,Geladeira,Casa,3,790.23,PIX,3,Não
+608,Calebe da Cunha,49,Masculino,lopesguilherme@freitas.com,Brasil,2023-05-02,Romance,Livros,3,962.52,Boleto,3,Não
+609,Luigi Araújo,56,Outro,ifernandes@yahoo.com.br,Argentina,2024-03-26,Liquidificador,Casa,4,1636.93,Cartão de Crédito,3,Sim
+610,Bruna Fernandes,68,Feminino,enricoda-paz@gomes.net,Moçambique,2023-07-15,Fantasia,Livros,5,832.75,Boleto,5,Sim
+611,Luiz Miguel Rezende,48,Feminino,ifreitas@bol.com.br,Brasil,2024-03-11,Feijão,Alimentos,5,867.99,Débito,5,Não
+612,Esther Silveira,52,Outro,rviana@mendes.br,Argentina,2024-07-12,Camiseta,Roupas,5,1675.13,Cartão de Crédito,5,Não
+613,Elisa Vieira,38,Outro,castrorafael@bol.com.br,Brasil,2023-09-01,Suspense,Livros,3,1912.21,Cartão de Crédito,5,Sim
+614,Camila Carvalho,61,Outro,heloisasantos@ig.com.br,Angola,2023-10-18,Chocolate,Alimentos,1,190.16,Boleto,5,Sim
+615,Theo Cunha,66,Masculino,maria79@bol.com.br,Argentina,2024-09-24,Autoajuda,Livros,4,1234.99,Débito,2,Sim
+616,Dra. Mariane Duarte,61,Feminino,alexia18@gomes.com,Portugal,2023-07-07,Geladeira,Casa,4,1438.4,PIX,1,Sim
+617,Ana Laura Rezende,57,Outro,mirellada-costa@yahoo.com.br,Angola,2025-01-12,Jaqueta,Roupas,1,744.75,Cartão de Crédito,1,Não
+618,Bryan da Rocha,25,Feminino,renan78@barbosa.br,Brasil,2023-05-13,Vestido,Roupas,5,794.59,PIX,4,Não
+619,Diego da Rocha,42,Feminino,luiz-fernando33@teixeira.br,Moçambique,2023-06-26,Calça Jeans,Roupas,4,286.75,Débito,3,Não
+620,Manuela da Conceição,27,Feminino,da-cruzbernardo@hotmail.com,Argentina,2025-04-07,Camiseta,Roupas,1,1300.29,Boleto,4,Não
+621,Marcelo Costa,26,Masculino,iviana@ig.com.br,Argentina,2024-03-09,Fantasia,Livros,5,1861.32,Boleto,4,Não
+622,Nathan da Mata,53,Feminino,fogacajoana@caldeira.br,Angola,2023-07-06,Feijão,Alimentos,2,855.3,Cartão de Crédito,5,Não
+623,João Vitor da Luz,64,Masculino,julianaviana@rezende.net,Moçambique,2023-06-12,Chocolate,Alimentos,5,1156.94,Cartão de Crédito,1,Não
+624,Elisa Pereira,63,Feminino,asilveira@hotmail.com,Brasil,2024-02-23,Fogão,Casa,1,292.75,PIX,4,Sim
+625,Srta. Ana Carolina da Luz,51,Outro,alanapereira@hotmail.com,Brasil,2023-05-28,Vestido,Roupas,1,1371.31,PIX,5,Sim
+626,Sr. André Carvalho,39,Outro,kcavalcanti@nogueira.org,Brasil,2024-12-02,Fantasia,Livros,5,1813.05,PIX,4,Não
+627,Vitor Sales,69,Feminino,moraesisabella@goncalves.com,Portugal,2025-02-15,Camiseta,Roupas,5,1501.36,PIX,1,Não
+628,Julia Moreira,55,Masculino,vitor44@vieira.br,Moçambique,2023-11-01,Tablet,Eletrônicos,5,64.32,Débito,1,Sim
+629,Ana Lívia Mendes,50,Masculino,breno98@cardoso.br,Portugal,2023-08-12,Feijão,Alimentos,5,569.13,PIX,1,Sim
+630,Lorena Correia,56,Masculino,ucardoso@yahoo.com.br,Moçambique,2023-09-09,Vestido,Roupas,3,1617.6,PIX,2,Não
+631,Joana Rezende,29,Outro,barbara59@uol.com.br,Brasil,2023-10-20,Arroz,Alimentos,2,1195.13,Boleto,4,Não
+632,Cauã Cardoso,67,Feminino,gabrielly29@uol.com.br,Argentina,2023-12-18,Suspense,Livros,2,1159.74,PIX,1,Não
+633,Marcela Carvalho,66,Masculino,vcardoso@gmail.com,Brasil,2025-01-08,Vestido,Roupas,4,957.7,Débito,5,Sim
+634,Lucca Ribeiro,42,Outro,caueazevedo@ferreira.net,Angola,2024-11-26,Autoajuda,Livros,2,1065.58,Débito,1,Não
+635,Marcela Costela,69,Feminino,ribeirolucas@santos.net,Angola,2024-12-04,Arroz,Alimentos,1,1836.25,PIX,4,Não
+636,Srta. Júlia Castro,39,Feminino,cecilia23@ig.com.br,Portugal,2024-02-22,Tablet,Eletrônicos,5,788.4,Boleto,5,Sim
+637,Maria Alice Fernandes,51,Feminino,xrocha@hotmail.com,Argentina,2025-02-17,Arroz,Alimentos,1,1665.06,Cartão de Crédito,4,Sim
+638,Dr. Juan Campos,51,Masculino,yteixeira@moraes.org,Angola,2023-12-02,Feijão,Alimentos,3,511.27,Cartão de Crédito,1,Sim
+639,Dra. Cecília Gomes,21,Outro,joao-guilhermecaldeira@ig.com.br,Argentina,2023-11-17,Liquidificador,Casa,1,181.91,Boleto,4,Sim
+640,Gabriela Aragão,25,Outro,salesmiguel@melo.com,Argentina,2023-06-02,Macarrão,Alimentos,4,1324.35,Cartão de Crédito,4,Não
+641,Sra. Daniela Campos,67,Feminino,rochajoao-gabriel@gmail.com,Portugal,2024-06-13,Feijão,Alimentos,1,561.8,Cartão de Crédito,4,Não
+642,Pedro Lucas Dias,39,Masculino,pereiraleticia@novaes.br,Portugal,2024-02-02,Feijão,Alimentos,4,148.1,Boleto,5,Não
+643,Pedro Lucas Pereira,29,Outro,rduarte@barbosa.org,Angola,2025-03-28,Notebook,Eletrônicos,5,1539.73,Boleto,5,Sim
+644,Maria Clara Aragão,46,Outro,enrico70@cardoso.com,Portugal,2024-09-23,Smartphone,Eletrônicos,1,150.12,PIX,4,Sim
+645,Luiz Gustavo Nascimento,49,Masculino,anthony86@da.br,Brasil,2025-01-02,Fone de Ouvido,Eletrônicos,3,311.7,PIX,4,Sim
+646,Sophie Pinto,50,Outro,pereiramaria-eduarda@yahoo.com.br,Angola,2024-05-08,Fantasia,Livros,4,1689.66,Cartão de Crédito,5,Sim
+647,Amanda Carvalho,18,Feminino,livia50@monteiro.net,Angola,2023-06-17,Tablet,Eletrônicos,3,1366.85,Débito,1,Sim
+648,Gabriel da Rosa,41,Outro,da-costathales@gmail.com,Portugal,2024-03-18,Fone de Ouvido,Eletrônicos,3,1299.11,Boleto,5,Sim
+649,Sabrina Monteiro,42,Outro,lavinia97@ig.com.br,Argentina,2023-10-16,Chocolate,Alimentos,1,1264.93,PIX,4,Sim
+650,Bernardo Moraes,58,Feminino,danielaraujo@pires.net,Argentina,2023-07-05,Camiseta,Roupas,2,60.48,Boleto,4,Não
+651,Beatriz Pereira,22,Outro,lda-rosa@yahoo.com.br,Portugal,2024-04-06,Fantasia,Livros,1,83.71,Cartão de Crédito,3,Sim
+652,Clarice Duarte,43,Masculino,laura22@porto.com,Argentina,2024-12-02,Fogão,Casa,5,306.42,Boleto,1,Sim
+653,Yago da Cunha,65,Masculino,lalves@hotmail.com,Angola,2024-11-17,Fone de Ouvido,Eletrônicos,5,101.15,Boleto,1,Sim
+654,Bruno Fogaça,58,Masculino,ana-vitoria67@yahoo.com.br,Portugal,2023-09-16,Fone de Ouvido,Eletrônicos,5,349.67,Cartão de Crédito,1,Sim
+655,Gabriel Santos,49,Outro,danilo17@pinto.br,Moçambique,2023-04-24,Camiseta,Roupas,2,858.16,Débito,3,Sim
+656,Sarah Alves,61,Outro,pedro-lucascorreia@correia.com,Moçambique,2024-05-05,Jaqueta,Roupas,2,1530.81,Boleto,3,Sim
+657,Guilherme Moura,25,Feminino,maria68@ig.com.br,Argentina,2024-03-06,Suspense,Livros,3,1111.28,Débito,2,Sim
+658,Nicole Correia,26,Masculino,maria-eduardasantos@jesus.com,Moçambique,2023-10-22,Suspense,Livros,1,1760.46,Cartão de Crédito,1,Sim
+659,Otávio Campos,29,Masculino,luiz-henrique29@da.com,Moçambique,2024-07-30,Chocolate,Alimentos,4,1387.79,Boleto,2,Não
+660,Ana da Cunha,51,Feminino,wcardoso@goncalves.br,Angola,2023-10-07,Calça Jeans,Roupas,5,1386.43,Boleto,4,Sim
+661,Davi Lucca Oliveira,58,Feminino,tduarte@costela.org,Portugal,2024-02-06,Romance,Livros,5,478.92,Cartão de Crédito,5,Sim
+662,Luiza Campos,57,Feminino,correialuiz-gustavo@uol.com.br,Moçambique,2024-10-30,Sofá,Casa,4,1542.96,Boleto,3,Sim
+663,Dra. Raquel Nunes,30,Masculino,anogueira@oliveira.com,Argentina,2023-05-08,Fantasia,Livros,2,327.92,Cartão de Crédito,1,Não
+664,Maria Clara Mendes,36,Masculino,ana-liviavieira@da.net,Angola,2023-07-25,Macarrão,Alimentos,5,1612.26,Débito,1,Sim
+665,Dr. Theo Martins,65,Masculino,barrosmariane@fernandes.com,Moçambique,2024-11-23,Calça Jeans,Roupas,1,975.27,Cartão de Crédito,1,Sim
+666,Thomas Martins,64,Feminino,vianamariana@gmail.com,Moçambique,2023-08-18,Geladeira,Casa,4,405.52,PIX,2,Sim
+667,Sofia Mendes,38,Masculino,peixotoana-carolina@pinto.com,Brasil,2024-10-24,Vestido,Roupas,2,757.31,Boleto,1,Não
+668,Enzo Gabriel Souza,55,Feminino,aragaocalebe@hotmail.com,Brasil,2024-04-10,Suspense,Livros,2,1856.5,Débito,2,Não
+669,Igor da Rosa,41,Masculino,rezendeisaac@yahoo.com.br,Angola,2024-04-17,Jaqueta,Roupas,3,412.4,Boleto,1,Sim
+670,Yasmin Peixoto,35,Masculino,monteiroeduarda@gmail.com,Brasil,2024-04-19,Fantasia,Livros,4,350.69,PIX,2,Não
+671,Cauã Pereira,56,Masculino,costelaluigi@castro.com,Moçambique,2024-08-25,Calça Jeans,Roupas,1,829.28,Débito,2,Não
+672,Marina da Paz,47,Feminino,xsouza@almeida.com,Brasil,2024-10-14,Suspense,Livros,2,661.32,Boleto,5,Sim
+673,Sra. Letícia Fogaça,54,Masculino,spinto@uol.com.br,Angola,2023-06-12,Smartphone,Eletrônicos,4,1469.62,Cartão de Crédito,4,Não
+674,Ana Lívia Pires,48,Outro,silveirapedro-miguel@hotmail.com,Brasil,2025-03-31,Fantasia,Livros,2,175.35,Cartão de Crédito,4,Sim
+675,Ana Sophia Fernandes,26,Feminino,laviniapires@mendes.org,Portugal,2023-04-11,Camiseta,Roupas,1,964.77,PIX,2,Não
+676,Luiz Felipe Costela,54,Outro,nunesgiovanna@ig.com.br,Moçambique,2024-05-08,Fone de Ouvido,Eletrônicos,4,1545.95,Débito,2,Não
+677,Benjamin da Mota,58,Feminino,ana-laura56@correia.com,Brasil,2023-09-27,Fone de Ouvido,Eletrônicos,3,1066.53,PIX,4,Não
+678,Luiz Miguel da Costa,62,Outro,fernandesluana@ig.com.br,Moçambique,2023-07-04,Sofá,Casa,1,1244.71,PIX,1,Não
+679,Heloísa Martins,21,Masculino,vitor79@duarte.net,Angola,2024-12-16,Chocolate,Alimentos,5,91.34,PIX,2,Sim
+680,Matheus Correia,53,Outro,sophia98@silva.com,Argentina,2024-06-17,Jaqueta,Roupas,2,1083.87,Débito,5,Sim
+681,Gabriel Azevedo,66,Outro,xcavalcanti@bol.com.br,Argentina,2024-05-05,Macarrão,Alimentos,3,1012.1,Débito,3,Sim
+682,Carlos Eduardo Martins,22,Feminino,stella40@ig.com.br,Portugal,2023-12-02,Fantasia,Livros,5,1058.1,Cartão de Crédito,4,Não
+683,Helena Rocha,46,Outro,esther58@ferreira.br,Portugal,2023-09-19,Notebook,Eletrônicos,4,183.74,Débito,2,Não
+684,Isis Correia,22,Masculino,maiteribeiro@hotmail.com,Argentina,2024-09-28,Arroz,Alimentos,2,997.69,Boleto,5,Sim
+685,Fernando da Luz,36,Feminino,ccardoso@gmail.com,Moçambique,2024-12-17,Vestido,Roupas,3,846.06,Cartão de Crédito,3,Sim
+686,Dra. Marina Fogaça,22,Masculino,oteixeira@yahoo.com.br,Argentina,2024-04-09,Geladeira,Casa,4,1161.62,PIX,4,Não
+687,Danilo Moura,47,Feminino,vitoria92@bol.com.br,Moçambique,2024-10-21,Jaqueta,Roupas,2,1580.64,Boleto,4,Não
+688,Benjamin Sales,36,Masculino,theoaraujo@hotmail.com,Argentina,2024-10-28,Macarrão,Alimentos,4,1912.87,Boleto,5,Não
+689,Luiz Otávio Pires,29,Masculino,araujoisaac@rodrigues.br,Argentina,2024-07-20,Calça Jeans,Roupas,1,91.89,PIX,5,Sim
+690,Levi Azevedo,46,Feminino,cunhahelena@bol.com.br,Portugal,2024-11-06,Calça Jeans,Roupas,5,1417.2,PIX,3,Sim
+691,Sr. Gustavo Moreira,41,Feminino,castrootavio@ig.com.br,Moçambique,2023-12-21,Jaqueta,Roupas,1,1841.66,Débito,4,Sim
+692,Pietro Ramos,47,Feminino,samuel27@yahoo.com.br,Argentina,2023-05-28,Tablet,Eletrônicos,3,953.08,PIX,5,Sim
+693,Thales Moraes,69,Outro,nicolasda-mota@hotmail.com,Angola,2024-08-09,Arroz,Alimentos,4,1801.35,Boleto,5,Sim
+694,Lara Pereira,37,Masculino,teixeirajoao-vitor@hotmail.com,Angola,2023-08-08,Sofá,Casa,4,721.21,PIX,1,Sim
+695,Evelyn Cardoso,55,Outro,nribeiro@caldeira.br,Argentina,2025-03-23,Feijão,Alimentos,1,176.34,Débito,1,Não
+696,Elisa Moreira,30,Feminino,rezendeeduarda@ramos.org,Portugal,2023-08-29,Liquidificador,Casa,3,801.14,Débito,3,Não
+697,Fernanda Lopes,41,Masculino,silveirajoao-miguel@ig.com.br,Portugal,2023-10-16,Macarrão,Alimentos,3,1955.27,Cartão de Crédito,2,Não
+698,Joaquim Barros,65,Feminino,gmonteiro@uol.com.br,Angola,2024-05-27,Feijão,Alimentos,4,1459.92,Débito,2,Sim
+699,João Guilherme Carvalho,27,Masculino,dmoreira@yahoo.com.br,Portugal,2024-02-17,Autoajuda,Livros,1,1866.97,Débito,1,Sim
+700,Dr. Anthony Farias,44,Outro,moraesbreno@pinto.com,Portugal,2024-03-20,Suspense,Livros,5,929.62,Boleto,2,Sim
+701,Rebeca Castro,42,Feminino,liviaaraujo@moura.org,Moçambique,2023-06-22,Romance,Livros,3,1670.82,PIX,4,Não
+702,Enzo Gabriel da Luz,32,Masculino,gfernandes@gmail.com,Brasil,2024-09-14,Jaqueta,Roupas,3,1912.49,Débito,1,Não
+703,Enrico Rodrigues,44,Masculino,brenopinto@moura.net,Angola,2023-06-04,Camiseta,Roupas,1,1531.79,Débito,1,Não
+704,Dr. Isaac Silveira,55,Feminino,ericksilveira@costela.com,Moçambique,2024-09-25,Autoajuda,Livros,4,1948.77,Cartão de Crédito,3,Sim
+705,Eduarda da Costa,34,Masculino,diogo80@yahoo.com.br,Moçambique,2024-05-25,Notebook,Eletrônicos,3,927.48,Boleto,3,Sim
+706,Ryan Rezende,21,Feminino,maria-vitoriacaldeira@uol.com.br,Portugal,2023-10-16,Autoajuda,Livros,1,586.81,Cartão de Crédito,5,Sim
+707,Lorena Nogueira,67,Outro,azevedobarbara@castro.com,Argentina,2023-09-23,Notebook,Eletrônicos,5,651.99,PIX,3,Não
+708,Thomas Costela,61,Outro,araujodavi@uol.com.br,Portugal,2023-11-13,Tablet,Eletrônicos,2,35.67,PIX,3,Não
+709,Sophia da Cruz,44,Feminino,nunesisis@yahoo.com.br,Argentina,2023-08-12,Notebook,Eletrônicos,2,1011.73,Boleto,5,Sim
+710,Alícia Lopes,44,Feminino,monteiroluiza@rodrigues.br,Brasil,2024-10-13,Notebook,Eletrônicos,1,964.24,PIX,3,Sim
+711,Felipe Rezende,70,Feminino,leticia10@bol.com.br,Moçambique,2023-08-12,Geladeira,Casa,2,1422.69,Cartão de Crédito,1,Sim
+712,Fernando Azevedo,26,Outro,vitoria93@hotmail.com,Argentina,2025-03-18,Jaqueta,Roupas,2,427.58,Cartão de Crédito,4,Sim
+713,Lavínia Fernandes,22,Masculino,santosjuan@ig.com.br,Angola,2024-07-12,Romance,Livros,2,224.56,Cartão de Crédito,4,Sim
+714,Bruna da Rocha,34,Masculino,vitor-hugocardoso@das.com,Brasil,2023-05-01,Arroz,Alimentos,1,1566.92,Boleto,5,Sim
+715,Luana Sales,29,Outro,joao-gabriel89@novaes.net,Portugal,2024-04-28,Smartphone,Eletrônicos,2,1693.26,PIX,5,Não
+716,Dra. Melissa Dias,40,Masculino,nicoleda-costa@ig.com.br,Moçambique,2024-10-02,Sofá,Casa,5,1144.77,Cartão de Crédito,5,Sim
+717,Srta. Juliana Porto,51,Masculino,fporto@bol.com.br,Argentina,2024-07-12,Feijão,Alimentos,5,18.61,Cartão de Crédito,2,Não
+718,Enzo Gabriel Viana,41,Outro,xcarvalho@farias.br,Moçambique,2024-01-16,Vestido,Roupas,1,369.89,PIX,4,Não
+719,Luiza Peixoto,31,Outro,pda-cruz@yahoo.com.br,Argentina,2023-05-02,Romance,Livros,3,255.99,Cartão de Crédito,5,Sim
+720,Manuela Azevedo,49,Feminino,isabellacavalcanti@gmail.com,Portugal,2024-07-04,Liquidificador,Casa,1,662.95,Cartão de Crédito,4,Não
+721,Lucas Pires,47,Outro,mfreitas@freitas.com,Portugal,2023-11-19,Suspense,Livros,5,820.49,Débito,2,Sim
+722,Srta. Lorena Barbosa,69,Feminino,rochaemanuelly@hotmail.com,Portugal,2024-02-08,Camiseta,Roupas,4,1347.47,Débito,4,Sim
+723,Rafaela Araújo,25,Masculino,joanasantos@bol.com.br,Angola,2024-01-09,Romance,Livros,2,138.77,Boleto,3,Sim
+724,Larissa Sales,56,Feminino,pauloteixeira@bol.com.br,Brasil,2024-03-19,Vestido,Roupas,4,564.25,PIX,4,Não
+725,Dr. Caio Oliveira,48,Outro,caio24@oliveira.com,Moçambique,2023-08-09,Fantasia,Livros,5,564.99,Débito,1,Sim
+726,Bruna Araújo,34,Feminino,ccorreia@ribeiro.br,Angola,2023-06-08,Calça Jeans,Roupas,1,208.21,Cartão de Crédito,1,Não
+727,Thales Moreira,61,Masculino,eduardonunes@vieira.br,Argentina,2024-08-09,Autoajuda,Livros,2,612.48,Cartão de Crédito,1,Não
+728,Dra. Alexia Gonçalves,68,Feminino,da-mataluiza@fogaca.br,Argentina,2024-01-24,Chocolate,Alimentos,4,1014.54,PIX,5,Sim
+729,Guilherme Rodrigues,66,Masculino,silveirapedro-miguel@gmail.com,Angola,2025-01-23,Fone de Ouvido,Eletrônicos,4,635.97,Débito,4,Não
+730,Mariana Santos,20,Masculino,rda-costa@gmail.com,Argentina,2023-08-12,Geladeira,Casa,2,988.04,Boleto,3,Não
+731,Henrique Moraes,49,Masculino,anthonyribeiro@ig.com.br,Moçambique,2024-06-16,Fantasia,Livros,4,1128.89,Boleto,5,Sim
+732,Clara Almeida,43,Feminino,pda-cruz@pires.br,Angola,2023-06-10,Fogão,Casa,5,1356.21,PIX,3,Sim
+733,Vicente Cardoso,19,Outro,luana11@uol.com.br,Brasil,2024-09-17,Jaqueta,Roupas,3,1621.01,Cartão de Crédito,3,Não
+734,Thales Peixoto,24,Feminino,costelayago@ig.com.br,Portugal,2023-11-09,Chocolate,Alimentos,3,122.33,Boleto,2,Sim
+735,Davi Lucas da Costa,59,Feminino,bernardo46@moreira.org,Moçambique,2023-05-25,Smartphone,Eletrônicos,3,237.8,Boleto,1,Não
+736,Pietra Lima,20,Feminino,enricocastro@uol.com.br,Angola,2024-04-16,Fogão,Casa,3,50.6,Débito,5,Sim
+737,Isadora Azevedo,38,Feminino,gabriel66@hotmail.com,Moçambique,2024-10-16,Autoajuda,Livros,5,204.47,Débito,1,Sim
+738,Pedro Miguel Costela,39,Feminino,nogueiraemanuel@peixoto.org,Moçambique,2024-10-24,Feijão,Alimentos,5,606.05,Débito,2,Não
+739,Esther Carvalho,58,Masculino,marcelaalves@bol.com.br,Moçambique,2024-10-13,Jaqueta,Roupas,3,104.59,Débito,2,Sim
+740,Igor Gonçalves,63,Outro,maria-fernanda81@hotmail.com,Brasil,2024-07-02,Geladeira,Casa,3,143.87,Débito,4,Sim
+741,Beatriz Alves,40,Masculino,esther86@yahoo.com.br,Portugal,2024-01-20,Geladeira,Casa,4,1330.28,PIX,2,Não
+742,Valentina Moreira,43,Feminino,wgoncalves@ig.com.br,Moçambique,2025-03-05,Fogão,Casa,5,369.4,Cartão de Crédito,5,Sim
+743,Marina Barbosa,54,Feminino,caroline32@jesus.com,Argentina,2024-12-22,Autoajuda,Livros,5,1619.78,Débito,5,Sim
+744,Ana Ribeiro,51,Masculino,lorenzorocha@ig.com.br,Portugal,2024-10-14,Suspense,Livros,2,309.44,PIX,4,Não
+745,Leandro Costa,38,Masculino,teixeiraolivia@barbosa.br,Argentina,2024-08-24,Autoajuda,Livros,3,1295.62,PIX,5,Sim
+746,Lucas Gabriel Monteiro,43,Masculino,felipe87@bol.com.br,Brasil,2023-06-22,Calça Jeans,Roupas,1,498.72,PIX,4,Não
+747,Benício das Neves,53,Feminino,zpinto@monteiro.com,Angola,2024-11-01,Notebook,Eletrônicos,2,552.7,Cartão de Crédito,3,Não
+748,Dr. Luiz Fernando da Mata,60,Outro,yasmin67@jesus.br,Argentina,2024-05-15,Fone de Ouvido,Eletrônicos,1,120.1,Cartão de Crédito,3,Não
+749,Dr. Benjamin Barbosa,22,Feminino,da-motaana-luiza@hotmail.com,Portugal,2024-03-01,Fone de Ouvido,Eletrônicos,2,479.72,Cartão de Crédito,5,Não
+750,Vitor Hugo Nogueira,49,Masculino,danilomonteiro@bol.com.br,Argentina,2025-03-29,Liquidificador,Casa,3,665.28,Débito,2,Não
+751,Beatriz da Cruz,31,Masculino,uda-paz@gmail.com,Brasil,2024-06-04,Calça Jeans,Roupas,3,884.56,PIX,5,Sim
+752,Helena Ribeiro,49,Outro,rafaelanovaes@ig.com.br,Portugal,2024-07-22,Tablet,Eletrônicos,5,853.32,Boleto,3,Sim
+753,Sra. Emilly Jesus,41,Feminino,rmoraes@uol.com.br,Portugal,2025-02-27,Arroz,Alimentos,5,79.27,Cartão de Crédito,2,Não
+754,Luiz Henrique Cavalcanti,53,Feminino,lopesgabriela@ig.com.br,Portugal,2024-09-04,Arroz,Alimentos,5,1735.24,Débito,4,Sim
+755,Srta. Maria Vitória Nogueira,43,Feminino,thalescavalcanti@da.br,Portugal,2024-11-16,Notebook,Eletrônicos,3,428.67,Boleto,4,Não
+756,Vicente Cardoso,69,Outro,ana-juliarocha@hotmail.com,Angola,2024-12-04,Tablet,Eletrônicos,1,1648.16,Débito,4,Não
+757,Ryan Rezende,39,Outro,vcastro@da.br,Angola,2025-03-16,Notebook,Eletrônicos,3,1017.61,PIX,4,Não
+758,Calebe Pinto,47,Outro,benjamin83@silva.br,Brasil,2024-10-21,Notebook,Eletrônicos,4,1584.13,Boleto,1,Não
+759,Joana Ribeiro,30,Outro,pda-mata@vieira.com,Portugal,2024-09-19,Arroz,Alimentos,1,324.07,Boleto,5,Não
+760,Dr. Augusto Vieira,68,Feminino,ana-sophia53@moreira.net,Angola,2023-10-14,Suspense,Livros,3,355.22,PIX,3,Sim
+761,Anthony da Mota,23,Feminino,ryan34@da.com,Portugal,2023-06-17,Vestido,Roupas,4,1890.07,Boleto,1,Sim
+762,Rafael Barros,53,Outro,marcela13@cardoso.com,Moçambique,2025-01-01,Camiseta,Roupas,4,404.55,Boleto,1,Não
+763,Srta. Bruna Moreira,57,Feminino,gomescecilia@ig.com.br,Moçambique,2023-09-12,Feijão,Alimentos,1,1916.49,Boleto,5,Sim
+764,Francisco Mendes,18,Outro,pda-paz@gmail.com,Moçambique,2024-12-08,Fantasia,Livros,4,245.84,Boleto,2,Não
+765,Dra. Rebeca Jesus,36,Outro,joao-felipe78@hotmail.com,Angola,2024-06-19,Suspense,Livros,4,1714.11,Boleto,3,Sim
+766,Luana Rodrigues,44,Masculino,ida-conceicao@teixeira.com,Angola,2024-04-23,Camiseta,Roupas,3,1952.5,Boleto,5,Não
+767,Thales Moura,33,Feminino,yuri95@gmail.com,Moçambique,2023-09-23,Romance,Livros,1,943.07,PIX,4,Sim
+768,Ana Laura Moraes,63,Feminino,da-rochamariane@nogueira.br,Angola,2025-02-17,Geladeira,Casa,1,199.61,Cartão de Crédito,1,Não
+769,Maria Julia Ferreira,33,Feminino,sarah06@moura.com,Portugal,2024-04-15,Liquidificador,Casa,1,514.78,Débito,3,Não
+770,Pietra da Costa,60,Feminino,gabriela38@hotmail.com,Argentina,2023-09-15,Liquidificador,Casa,5,366.95,Boleto,5,Não
+771,Nathan Mendes,39,Feminino,gustavo89@gmail.com,Argentina,2024-08-16,Tablet,Eletrônicos,5,871.53,PIX,1,Não
+772,André Campos,20,Masculino,maragao@uol.com.br,Angola,2025-01-06,Macarrão,Alimentos,4,573.02,PIX,5,Não
+773,Amanda Ramos,51,Feminino,pedrofreitas@gmail.com,Angola,2023-08-26,Jaqueta,Roupas,4,1529.71,Boleto,5,Não
+774,Raul Teixeira,21,Masculino,foliveira@vieira.com,Argentina,2023-11-18,Notebook,Eletrônicos,2,81.37,PIX,2,Não
+775,Caio Rodrigues,45,Masculino,renan96@gmail.com,Angola,2023-07-19,Fone de Ouvido,Eletrônicos,3,1977.75,Débito,4,Não
+776,Nicolas Nunes,25,Outro,llima@uol.com.br,Argentina,2025-03-17,Tablet,Eletrônicos,1,415.43,PIX,2,Sim
+777,Luiz Gustavo da Rosa,65,Outro,elisapinto@lopes.br,Portugal,2023-08-28,Sofá,Casa,5,1996.03,Cartão de Crédito,5,Sim
+778,Ana Lívia Duarte,44,Masculino,brunada-mota@silva.br,Argentina,2024-12-23,Romance,Livros,3,61.66,Cartão de Crédito,4,Não
+779,Henrique Aragão,55,Masculino,liviavieira@da.com,Portugal,2023-12-11,Camiseta,Roupas,1,925.86,Débito,4,Não
+780,Pietra Fogaça,56,Outro,eduarda57@bol.com.br,Brasil,2023-06-27,Arroz,Alimentos,5,1902.28,PIX,5,Sim
+781,Mariana Silveira,31,Masculino,osilva@bol.com.br,Portugal,2024-04-17,Arroz,Alimentos,1,1098.84,Débito,1,Não
+782,Ryan Ferreira,34,Masculino,vitoria44@ig.com.br,Argentina,2023-10-30,Romance,Livros,1,1706.17,Boleto,4,Não
+783,Eloah Fernandes,36,Outro,pedro-henrique01@ig.com.br,Argentina,2024-07-27,Tablet,Eletrônicos,4,1604.19,PIX,5,Sim
+784,Camila Nascimento,40,Outro,vitor-hugo83@ig.com.br,Brasil,2023-06-02,Feijão,Alimentos,4,896.43,Débito,4,Não
+785,Vinicius Lopes,54,Outro,olivia20@silva.com,Angola,2024-07-22,Fone de Ouvido,Eletrônicos,3,1231.6,Débito,4,Sim
+786,Alice Silveira,20,Outro,mariane17@santos.org,Portugal,2023-06-24,Suspense,Livros,2,1862.03,Cartão de Crédito,3,Não
+787,Lavínia da Costa,45,Masculino,pedroda-cunha@ig.com.br,Angola,2025-02-28,Feijão,Alimentos,2,1371.78,PIX,2,Não
+788,Luiz Gustavo da Luz,36,Outro,ramoseloah@cavalcanti.br,Brasil,2025-04-09,Liquidificador,Casa,1,1031.69,Débito,4,Sim
+789,Srta. Sophia Costela,47,Outro,klopes@ig.com.br,Moçambique,2024-02-28,Macarrão,Alimentos,3,1175.28,Cartão de Crédito,1,Não
+790,Thomas Porto,29,Masculino,ocorreia@da.com,Angola,2023-09-29,Smartphone,Eletrônicos,4,1754.74,PIX,3,Não
+791,Sofia da Mota,66,Outro,mouravicente@da.net,Angola,2024-02-29,Geladeira,Casa,3,1933.77,Boleto,2,Sim
+792,João Guilherme Souza,23,Outro,maiteduarte@uol.com.br,Moçambique,2023-07-30,Arroz,Alimentos,4,1073.41,Cartão de Crédito,4,Sim
+793,Gabrielly Oliveira,18,Masculino,santosenzo-gabriel@uol.com.br,Angola,2024-11-25,Fantasia,Livros,5,1454.56,PIX,5,Não
+794,Marcela Ramos,62,Outro,nataliada-mata@nogueira.br,Angola,2025-03-22,Arroz,Alimentos,2,278.88,Boleto,1,Sim
+795,Luiz Otávio Costela,62,Masculino,isis24@ig.com.br,Brasil,2024-07-07,Vestido,Roupas,2,1302.98,Débito,5,Sim
+796,Emanuella Barbosa,23,Feminino,brendanascimento@gmail.com,Angola,2023-10-28,Vestido,Roupas,4,53.42,Boleto,2,Não
+797,Sr. Luiz Gustavo Rocha,49,Feminino,isaac83@ig.com.br,Brasil,2025-02-25,Suspense,Livros,2,596.71,Débito,1,Não
+798,Erick Peixoto,18,Masculino,nina94@cardoso.com,Angola,2024-06-04,Fantasia,Livros,5,1195.72,PIX,1,Não
+799,Isabella Oliveira,43,Feminino,bryansilva@das.br,Moçambique,2024-07-31,Fogão,Casa,2,1431.44,Cartão de Crédito,4,Não
+800,Catarina Ferreira,53,Masculino,barbosanatalia@yahoo.com.br,Portugal,2024-07-09,Fantasia,Livros,1,994.63,PIX,4,Não
+801,Ana Julia Silva,19,Masculino,silveirakevin@da.org,Portugal,2024-12-01,Vestido,Roupas,3,881.84,Boleto,5,Não
+802,Sr. Miguel Peixoto,56,Outro,da-rochabruna@bol.com.br,Angola,2024-05-04,Jaqueta,Roupas,4,1920.01,PIX,4,Sim
+803,Alana Souza,57,Masculino,melojoao-pedro@sales.br,Portugal,2024-12-02,Fone de Ouvido,Eletrônicos,2,354.85,Boleto,5,Não
+804,Marina Teixeira,24,Feminino,yviana@pereira.br,Angola,2024-01-26,Feijão,Alimentos,2,1118.09,Cartão de Crédito,3,Não
+805,Eloah da Costa,40,Outro,giovannabarbosa@porto.com,Argentina,2025-01-08,Camiseta,Roupas,1,682.09,Cartão de Crédito,5,Sim
+806,Lucas da Conceição,25,Outro,ecaldeira@da.com,Argentina,2024-06-30,Autoajuda,Livros,3,1571.92,Cartão de Crédito,5,Não
+807,Thales Souza,27,Outro,wfarias@da.org,Moçambique,2023-05-17,Liquidificador,Casa,1,1854.0,Débito,4,Sim
+808,João Miguel Pinto,24,Outro,costanicolas@yahoo.com.br,Moçambique,2024-12-02,Smartphone,Eletrônicos,5,219.77,Cartão de Crédito,2,Não
+809,Vitor Nogueira,28,Outro,davi-lucca57@ig.com.br,Portugal,2023-10-24,Fantasia,Livros,1,317.05,PIX,3,Sim
+810,Ana Lívia Castro,25,Masculino,arthurcavalcanti@azevedo.br,Angola,2024-12-10,Romance,Livros,2,1671.28,Débito,3,Não
+811,Henrique Melo,50,Masculino,qsales@duarte.br,Brasil,2024-10-12,Macarrão,Alimentos,4,727.68,Boleto,2,Não
+812,Sra. Ana Beatriz Dias,68,Masculino,gabrielda-luz@aragao.br,Argentina,2024-01-21,Fantasia,Livros,4,1797.15,PIX,1,Não
+813,Thales da Mota,27,Masculino,guilherme00@uol.com.br,Moçambique,2023-09-20,Smartphone,Eletrônicos,3,636.46,Boleto,4,Sim
+814,Evelyn Nogueira,43,Masculino,joao-guilhermeramos@fernandes.br,Argentina,2024-08-10,Liquidificador,Casa,5,1945.6,Débito,4,Não
+815,Ana Vitória Aragão,64,Outro,marcelo20@yahoo.com.br,Portugal,2023-09-11,Arroz,Alimentos,3,1801.41,Boleto,4,Não
+816,Benício Aragão,59,Masculino,fcunha@costa.net,Moçambique,2023-04-21,Fogão,Casa,3,1776.47,Débito,2,Não
+817,Rodrigo Porto,23,Masculino,yasmin99@yahoo.com.br,Moçambique,2023-08-11,Chocolate,Alimentos,2,1045.73,PIX,2,Sim
+818,Ian Peixoto,50,Outro,nascimentonicole@yahoo.com.br,Portugal,2024-08-12,Geladeira,Casa,2,56.61,PIX,2,Não
+819,Caio Dias,64,Feminino,martinssamuel@ig.com.br,Moçambique,2025-01-01,Smartphone,Eletrônicos,3,526.92,PIX,1,Sim
+820,Luiz Henrique Correia,66,Outro,enricoalves@barros.br,Brasil,2024-01-18,Autoajuda,Livros,5,1476.35,Débito,3,Sim
+821,Juliana da Conceição,69,Outro,wcavalcanti@gmail.com,Moçambique,2024-05-15,Sofá,Casa,3,605.41,Boleto,4,Sim
+822,Clarice Moreira,24,Feminino,davi-lucas77@pires.org,Moçambique,2025-01-09,Sofá,Casa,3,914.08,Boleto,4,Não
+823,Rafaela Pires,23,Masculino,cecilia64@costela.br,Brasil,2023-09-12,Suspense,Livros,4,437.42,Cartão de Crédito,3,Não
+824,Maitê Santos,55,Outro,laracorreia@campos.com,Moçambique,2024-04-29,Autoajuda,Livros,5,1002.67,Débito,4,Não
+825,Dra. Maria Eduarda Castro,64,Feminino,ferreiravalentina@bol.com.br,Argentina,2023-09-07,Calça Jeans,Roupas,4,1425.19,Boleto,5,Sim
+826,Davi Souza,62,Masculino,hduarte@nogueira.br,Angola,2024-08-14,Romance,Livros,2,1888.7,PIX,1,Não
+827,Clarice Cunha,25,Masculino,davi-lucas87@hotmail.com,Portugal,2023-04-15,Geladeira,Casa,1,1050.33,Cartão de Crédito,3,Não
+828,Isabelly Rezende,41,Feminino,helenacardoso@bol.com.br,Portugal,2023-06-10,Romance,Livros,2,292.86,Débito,1,Não
+829,Dra. Ana Laura Rodrigues,36,Masculino,enzo-gabriel62@teixeira.com,Argentina,2024-05-30,Romance,Livros,1,1099.6,Cartão de Crédito,1,Não
+830,Dr. Ryan Melo,48,Outro,iancampos@gmail.com,Portugal,2024-10-02,Fogão,Casa,3,1564.89,Débito,5,Sim
+831,Sra. Lavínia Santos,66,Masculino,lsales@gmail.com,Moçambique,2024-02-01,Fantasia,Livros,4,306.48,PIX,1,Não
+832,Nicole da Luz,42,Masculino,brenda49@uol.com.br,Angola,2023-08-13,Arroz,Alimentos,4,1474.47,Cartão de Crédito,2,Sim
+833,Isabella Castro,54,Outro,caua81@gmail.com,Portugal,2023-04-20,Liquidificador,Casa,5,179.45,Cartão de Crédito,5,Sim
+834,Lucas Gabriel Sales,66,Feminino,lais38@das.com,Moçambique,2025-03-28,Smartphone,Eletrônicos,5,367.69,Cartão de Crédito,3,Sim
+835,Dr. Isaac da Rocha,33,Outro,azevedoisabel@ig.com.br,Moçambique,2023-09-18,Romance,Livros,5,1217.64,Débito,5,Sim
+836,Sr. Emanuel da Costa,49,Masculino,pmendes@da.com,Portugal,2024-12-20,Suspense,Livros,4,57.87,PIX,4,Não
+837,Maria Sophia Pinto,23,Masculino,enzo-gabrielbarbosa@uol.com.br,Brasil,2023-12-31,Sofá,Casa,3,296.63,PIX,1,Sim
+838,Enzo Gabriel Souza,37,Feminino,nmendes@uol.com.br,Argentina,2023-05-30,Tablet,Eletrônicos,2,64.07,Cartão de Crédito,3,Não
+839,Raul da Rocha,24,Feminino,monteiroian@santos.net,Argentina,2023-10-01,Autoajuda,Livros,3,757.27,Cartão de Crédito,1,Sim
+840,Sabrina Sales,33,Outro,pireskevin@uol.com.br,Moçambique,2024-12-21,Vestido,Roupas,5,1507.26,Débito,1,Não
+841,Pedro Farias,21,Feminino,laura77@cavalcanti.com,Angola,2024-11-26,Fogão,Casa,1,973.5,Débito,2,Sim
+842,Srta. Eduarda Ribeiro,35,Outro,lopesmaria-julia@bol.com.br,Moçambique,2023-11-12,Notebook,Eletrônicos,5,1306.59,Boleto,3,Não
+843,Marina da Costa,46,Masculino,ada-cunha@hotmail.com,Moçambique,2024-01-05,Calça Jeans,Roupas,3,1085.48,Boleto,2,Não
+844,Dr. Gustavo Teixeira,53,Feminino,yda-mota@monteiro.com,Brasil,2023-07-21,Fone de Ouvido,Eletrônicos,5,585.61,Boleto,1,Sim
+845,Juan da Costa,48,Feminino,da-cunhaleandro@castro.br,Moçambique,2024-09-26,Chocolate,Alimentos,3,1686.45,Boleto,5,Não
+846,Nicolas Correia,20,Masculino,agathamelo@gomes.com,Moçambique,2023-06-12,Liquidificador,Casa,3,188.53,Cartão de Crédito,2,Não
+847,Maria Alice Rodrigues,45,Masculino,cardosorafael@da.net,Moçambique,2023-07-12,Geladeira,Casa,3,1273.99,Débito,3,Sim
+848,Alexia Melo,60,Feminino,jsilveira@ig.com.br,Portugal,2023-12-03,Vestido,Roupas,5,663.63,Boleto,1,Não
+849,Dr. Igor da Conceição,18,Masculino,ana-sophiaporto@gmail.com,Argentina,2024-10-18,Fantasia,Livros,4,1080.88,Cartão de Crédito,5,Sim
+850,Alexia Nunes,70,Outro,martinssarah@uol.com.br,Angola,2023-05-28,Tablet,Eletrônicos,4,1656.66,PIX,4,Sim
+851,Carlos Eduardo Costela,67,Outro,silvarafaela@uol.com.br,Brasil,2023-09-27,Fone de Ouvido,Eletrônicos,3,1873.13,Débito,1,Sim
+852,Ana Beatriz Lopes,65,Masculino,vitor05@duarte.br,Portugal,2024-03-07,Feijão,Alimentos,1,1634.4,PIX,2,Sim
+853,Alexia Fernandes,49,Feminino,laracardoso@moreira.com,Brasil,2025-02-01,Chocolate,Alimentos,5,426.08,Boleto,4,Sim
+854,Lucca Almeida,35,Outro,ferreiraemilly@sales.br,Moçambique,2024-12-20,Suspense,Livros,5,395.6,Boleto,1,Sim
+855,Cauê Moreira,65,Masculino,smoura@cardoso.org,Argentina,2023-08-10,Feijão,Alimentos,5,1460.51,PIX,2,Sim
+856,Lavínia Peixoto,62,Outro,peixotoamanda@gmail.com,Moçambique,2025-01-03,Geladeira,Casa,5,1767.37,Cartão de Crédito,4,Sim
+857,Rafael Cunha,38,Feminino,vjesus@nascimento.com,Angola,2023-10-05,Arroz,Alimentos,5,938.51,PIX,5,Sim
+858,Nathan Peixoto,64,Masculino,npereira@yahoo.com.br,Brasil,2023-08-12,Chocolate,Alimentos,5,903.23,Cartão de Crédito,4,Sim
+859,Emanuelly Barros,39,Masculino,wsales@da.br,Moçambique,2023-10-18,Notebook,Eletrônicos,4,1915.97,Boleto,2,Sim
+860,Gabriel da Cruz,39,Feminino,caroline05@lima.com,Brasil,2024-06-12,Smartphone,Eletrônicos,4,869.58,Cartão de Crédito,5,Não
+861,Bianca Barbosa,34,Masculino,ryan11@gmail.com,Brasil,2024-01-30,Suspense,Livros,3,1666.71,PIX,5,Sim
+862,Eduardo Monteiro,22,Outro,julia03@lopes.com,Moçambique,2023-10-03,Romance,Livros,4,1162.08,Cartão de Crédito,1,Sim
+863,Ana Luiza Vieira,42,Feminino,da-rochamurilo@yahoo.com.br,Brasil,2025-02-23,Camiseta,Roupas,4,119.03,Débito,1,Sim
+864,Danilo Caldeira,61,Masculino,benjamindias@gmail.com,Moçambique,2024-06-30,Tablet,Eletrônicos,4,809.35,Débito,2,Sim
+865,Joana Silveira,47,Feminino,erodrigues@yahoo.com.br,Angola,2023-10-03,Romance,Livros,3,1305.33,Cartão de Crédito,4,Não
+866,Ana Laura Novaes,55,Masculino,dnogueira@hotmail.com,Brasil,2024-12-09,Smartphone,Eletrônicos,5,1429.47,Boleto,5,Sim
+867,Ana Clara da Mata,58,Outro,sabrina83@da.org,Portugal,2025-03-19,Chocolate,Alimentos,4,1452.0,Débito,2,Sim
+868,Antônio Cardoso,26,Masculino,brendaalmeida@yahoo.com.br,Brasil,2024-11-25,Jaqueta,Roupas,5,877.34,PIX,3,Sim
+869,Dra. Ana Júlia Sales,27,Feminino,jcorreia@moreira.com,Portugal,2023-11-11,Geladeira,Casa,3,743.97,Cartão de Crédito,5,Sim
+870,Leandro Nogueira,21,Masculino,santoslavinia@uol.com.br,Moçambique,2023-07-22,Liquidificador,Casa,4,694.19,Boleto,2,Sim
+871,Luana Campos,39,Masculino,heloisaramos@hotmail.com,Angola,2024-10-11,Autoajuda,Livros,5,1136.53,PIX,5,Não
+872,Gabrielly Dias,44,Feminino,pedro-henrique88@hotmail.com,Argentina,2023-06-09,Fone de Ouvido,Eletrônicos,1,996.9,Cartão de Crédito,2,Sim
+873,Cauê Campos,47,Outro,diego99@uol.com.br,Argentina,2024-10-07,Vestido,Roupas,3,1616.47,Débito,2,Não
+874,Dr. Kevin da Paz,29,Masculino,portolorenzo@rodrigues.com,Portugal,2024-10-09,Smartphone,Eletrônicos,3,69.74,Cartão de Crédito,2,Não
+875,Enzo das Neves,46,Masculino,lpeixoto@nunes.br,Moçambique,2024-07-22,Arroz,Alimentos,1,406.25,PIX,2,Sim
+876,Caroline Aragão,34,Outro,novaesisis@ig.com.br,Argentina,2023-05-18,Feijão,Alimentos,2,400.02,Boleto,3,Sim
+877,Maitê Cavalcanti,19,Outro,alice65@hotmail.com,Argentina,2024-03-07,Romance,Livros,3,1872.87,PIX,4,Sim
+878,Ana Júlia Lima,41,Feminino,isaac52@uol.com.br,Argentina,2023-06-13,Fogão,Casa,1,245.8,Boleto,2,Sim
+879,Joaquim Oliveira,52,Feminino,marcelo15@castro.com,Portugal,2024-08-25,Chocolate,Alimentos,2,1842.82,Boleto,5,Não
+880,Ana Vitória Nascimento,68,Masculino,bcastro@gmail.com,Portugal,2024-11-07,Camiseta,Roupas,3,1746.97,Débito,2,Sim
+881,Davi da Costa,68,Feminino,joao-pedrolima@castro.br,Moçambique,2023-12-31,Notebook,Eletrônicos,5,782.35,PIX,4,Não
+882,João Vitor Silveira,29,Feminino,calebecosta@cunha.com,Portugal,2024-12-22,Fogão,Casa,4,952.78,Débito,5,Sim
+883,Julia Cardoso,31,Masculino,maysa01@nascimento.net,Argentina,2023-07-04,Suspense,Livros,4,445.0,Débito,4,Sim
+884,Srta. Letícia Ramos,41,Feminino,vitor96@almeida.com,Moçambique,2023-12-11,Notebook,Eletrônicos,1,597.15,PIX,2,Sim
+885,Kamilly Carvalho,47,Outro,gabrielvieira@yahoo.com.br,Moçambique,2024-02-26,Chocolate,Alimentos,4,940.43,Débito,3,Não
+886,Cecília Martins,38,Feminino,thales86@ig.com.br,Angola,2023-07-02,Notebook,Eletrônicos,4,475.24,Cartão de Crédito,3,Sim
+887,Otávio Teixeira,36,Outro,maria-luiza49@cardoso.br,Moçambique,2024-01-12,Liquidificador,Casa,3,1853.95,Cartão de Crédito,1,Sim
+888,Isabel Moraes,41,Masculino,pietro77@oliveira.br,Moçambique,2023-04-26,Jaqueta,Roupas,2,1353.46,PIX,3,Não
+889,Emilly da Cruz,30,Outro,oliveiramaria-clara@hotmail.com,Moçambique,2024-11-15,Jaqueta,Roupas,1,1542.45,PIX,3,Não
+890,Lucca Ribeiro,43,Outro,das-nevesbeatriz@barros.br,Brasil,2023-09-30,Suspense,Livros,4,462.88,Boleto,4,Sim
+891,Melissa da Luz,51,Outro,fogacamaria-cecilia@ig.com.br,Moçambique,2024-01-29,Fantasia,Livros,3,1585.91,PIX,2,Não
+892,Luiza Gomes,67,Outro,miguelda-luz@uol.com.br,Angola,2025-03-12,Vestido,Roupas,4,1707.36,Cartão de Crédito,3,Sim
+893,João Lucas Cavalcanti,54,Masculino,costagustavo-henrique@rocha.br,Portugal,2023-05-22,Fone de Ouvido,Eletrônicos,3,686.25,Débito,4,Não
+894,Caio Farias,66,Outro,gdias@fogaca.org,Moçambique,2023-05-18,Macarrão,Alimentos,5,56.25,Cartão de Crédito,2,Sim
+895,Catarina Costela,39,Outro,samuel06@cardoso.com,Moçambique,2023-08-08,Fogão,Casa,4,416.37,Débito,1,Não
+896,Bruna Moreira,30,Feminino,da-luzrodrigo@sales.br,Brasil,2023-06-05,Chocolate,Alimentos,3,195.55,Cartão de Crédito,5,Sim
+897,Daniel Araújo,20,Outro,melissaduarte@yahoo.com.br,Moçambique,2024-03-22,Romance,Livros,2,406.01,Débito,3,Sim
+898,Melissa Nogueira,32,Feminino,lucas-gabrielnascimento@gmail.com,Moçambique,2025-02-09,Fone de Ouvido,Eletrônicos,1,743.62,Cartão de Crédito,2,Não

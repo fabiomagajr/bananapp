@@ -1,0 +1,26 @@
+Quero aprimora-lo. Adicionar uma nova função, de buscar dados em bancos de dados relacionais. Poderia, por gentileza, adicionar a opção "SQL" na tela (podendo ser um checkbox por exemplo) que quando selecionada, alguns campos ficam habilitados na tela. Os campos:
+* Tipo de banco (PostgreSQL, MySQL, MariaDB e SQL Server) 
+* Host/Endereço (o IP do servidor)
+* Credenciais para conexão
+* Nome da Base de dados
+* Nome da tabela a ser consultada
+* Limite de dados trazidos (por padrão preenchida com 100. um diálogo é exibido alertando sobre o desempenho e memória caso o limite digitado exceda 1000)
+O programa já funciona com o padrão de converter os dados, independente de como foram obtidos, para um dataframe. Mantenha o padrão. Não afete as outras funcionalidades do programa.
+
+
+
+elif db_type == "SQL Server":
+            if not MSSQL_AVAILABLE:
+                raise ImportError("Biblioteca 'pymssql' não instalada. Use: pip install pymssql")
+            
+            conn = pymssql.connect(
+                server=host,
+                user=user,
+                password=password,
+                database=database
+            )
+
+elif db_type == "SQL Server":
+                    if not MSSQL_AVAILABLE:
+                        raise ImportError("Biblioteca 'pymssql' não instalada. Use: pip install pymssql")
+                 
