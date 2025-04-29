@@ -110,7 +110,7 @@ Este projeto é livre e de código aberto, licenciado sob a MIT License.
 
 ## 💬 Contato
 Alguma dúvida ou sugestão?
-Entre em contato pelo e-mail: seuemail@exemplo.com ou crie uma issue!
+Entre em contato pelo e-mail: fabiomagajr@gmail.com ou crie uma issue!
 
 ## 🌟 Agradecimentos
 Obrigado por utilizar o Bananapp!
