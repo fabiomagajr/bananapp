@@ -1,54 +1,117 @@
-🍌 Bananapp - Universal Data Editor
-O Bananapp é um editor universal de arquivos de dados. Desenvolvido para facilitar a vida de quem precisa trabalhar com diferentes formatos de dados, seja arquivos CSV, JSON, XML, ou até mesmo bases de dados SQL, de maneira simples e rápida.
+# 🍌 Bananapp
 
-🚀 Versão 1.5
-A versão 1.5 traz grandes melhorias e correções, incluindo:
+**Bananapp** é um editor universal de arquivos de dados, desenvolvido para facilitar a manipulação de diversos formatos de arquivos e conexões com bancos de dados. Simples, eficiente e de código aberto, o Bananapp nasceu para descomplicar o trabalho com dados em diferentes ambientes.
 
-✅ Correções de bugs de charset: Melhor suporte a diferentes codificações de caracteres.
+---
 
-✅ Reconhecimento ampliado de formatos: Agora reconhece e abre mais tipos de arquivos de dados.
+## 🚀 Versão
 
-✅ Conexão com bancos de dados:
+`1.5`
+
+---
+
+## 📋 Funcionalidades
+
+- 📄 **Edição de arquivos de dados**:
+  - Suporte a múltiplos formatos: CSV, JSON, XML, YAML, entre outros.
+  - Reconhecimento aprimorado de charset para evitar problemas de codificação.
+
+- 🛠️ **Correções e melhorias**:
+  - Correção de bugs relacionados a charset.
+  - Melhor suporte para novos tipos de arquivos.
+
+- 🗄️ **Conexão com bancos de dados**:
+  - **PostgreSQL**
+  - **MySQL**
+  - Futuramente: **SQL Server**
+
+- 🔍 **Recursos adicionais**:
+  - Edição em tempo real com suporte a salvamento automático.
+  - Filtros e buscas avançadas para localizar dados rapidamente.
+  - Exportação para diversos formatos.
+
+---
+
+## 🔧 Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/fabiomagajr/bananapp.git
+```
+Instale as dependências necessárias:
+```bash
+cd bananapp
+# Dependendo da linguagem/gerenciador de pacotes utilizado:
+pip install -r pyside6 
+```
+
+Execute o Aplicativo:
+```bash
+python bananapp1_5.py
+```
+
+## 📚 Documentação
+A documentação completa está em desenvolvimento. Em breve, será disponibilizada uma Wiki com tutoriais e guias de uso.
+
+## 🆕 Histórico de versões
+v1.5
+Correções de bugs relacionados a charset.
+
+Reconhecimento de novos tipos de arquivos.
+
+Suporte à conexão com bancos de dados:
 
 PostgreSQL
 
 MySQL
 
-Futuramente: suporte ao SQL Server está nos nossos planos! 😉
+v1.4
+Melhorias de desempenho.
 
-💻 Funcionalidades Principais
-Abrir e editar arquivos de dados: CSV, JSON, XML, YAML, etc.
+Pequenas correções de bugs.
 
-Conectar-se a bancos de dados e visualizar tabelas como se fossem planilhas.
+v1.3
+Adição de novos formatos de arquivos suportados.
 
-Edição em tempo real com suporte a salvar automaticamente.
+v1.2
+Correção de bugs iniciais.
 
-Filtros e buscas poderosas para encontrar rapidamente os dados que você precisa.
+v1.0
+Lançamento inicial do Bananapp.
 
-Exportação para diversos formatos.
+## 🔮 Próximas funcionalidades
+Conexão com SQL Server.
 
-🛠️ Em Desenvolvimento
-Suporte a SQL Server.
+Suporte a novos formatos de arquivos.
 
-Modo escuro 🌙.
+Melhorias na interface e experiência do usuário.
 
 Integração com APIs REST.
 
-🔓 Software Livre e Código Aberto
-O Bananapp é livre e de código aberto! Isso significa que qualquer pessoa pode:
+## 🤝 Contribuição
+Contribuições são muito bem-vindas!
+Confira as issues abertas ou abra uma nova para sugerir melhorias ou relatar problemas.
 
-Baixar
+Para contribuir:
 
-Usar
+Fork este repositório.
 
-Modificar
+Crie uma branch com sua feature (git checkout -b minha-feature).
 
-Distribuir
+Commit suas alterações (git commit -m 'Minha nova feature').
 
-Contribuições são muito bem-vindas! 🌟
+Push para a branch (git push origin minha-feature).
 
-🤝 Contribuindo
-Quer ajudar a tornar o Bananapp ainda melhor? Confira o guia de contribuição e participe!
+Abra um Pull Request.
 
-📄 Licença
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
+## 📄 Licença
+Este projeto é livre e de código aberto, licenciado sob a MIT License.
+
+## 💬 Contato
+Alguma dúvida ou sugestão?
+Entre em contato pelo e-mail: seuemail@exemplo.com ou crie uma issue!
+
+## 🌟 Agradecimentos
+Obrigado por utilizar o Bananapp!
+Contribua, sugira e nos ajude a tornar o gerenciamento de dados mais simples para todos. 🍌
